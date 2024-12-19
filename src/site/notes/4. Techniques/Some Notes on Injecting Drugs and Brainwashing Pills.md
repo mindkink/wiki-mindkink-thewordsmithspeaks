@@ -71,7 +71,3 @@ Expand Safety Section
 Add photographs for visual reference
 Discuss methods for leaning more into the medical play side of things - scent associations, body positioning, etc
 Describe some example and useful hypnotic suggestions to maximise effect. Include full scripts.
-
-#### Changelog
-
-v1 Released DATE

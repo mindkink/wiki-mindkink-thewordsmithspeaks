@@ -21,9 +21,9 @@ The resource's in this list have been chosen because they are: cheap, accessible
 
 #### Foundational Essentials
 
-- Maximum Achievement by Brian Tracy - You. Must. Read. This. Book.
-- No More Mr Nice Guy by Dr. Robert Glover - ESSENTIAL and Highly Recommended
-- Dating Essentials for Men by Dr Robert Glover
+- [Maximum Achievement](https://amzn.to/3aOcgN8) by Brian Tracy - **You. Must. Read. This. Book.**
+- [No More Mr Nice Guy](https://amzn.to/2x3pd6N) by Dr. Robert Glover - ESSENTIAL and Highly Recommended
+- [Dating Essentials for Men](https://amzn.to/2Ie1GCG) by Dr Robert Glover
 - The "Worth" and "How to Win" recordings by Rick Smith Hypnosis
 - The PDF’s on Self Care and Boundaries in the Resources Folder at the website above are excellent here as well
 
@@ -31,21 +31,21 @@ The resource's in this list have been chosen because they are: cheap, accessible
 
 Philosophers Worth Studying: Seneca, Epicetus, Zeno, Marcus Aurelius, Massimo Pigliucci, Martin Heidegger.
 
-- The Art of Saying No by Damon Zahariades
-- The Courage to be Disliked by Fumitake Koga
-- A Guide to the Good Life by William Irvine
+- [The Art of Saying No](https://amzn.to/2VLQo0j) by Damon Zahariades
+- [The Courage to be Disliked](https://amzn.to/2VK9owa) by Fumitake Koga
+- [A Guide to the Good Life](https://amzn.to/2TiKT7H) by William Irvine
 - How to be a Stoic by Massimo Pigliucci
-- Meditations by Marcus Aurelieus - (An Intermediate-level text) It’s okay to skip the first third)
+- Meditations by Marcus Aurelieus - (An Intermediate-level text - It’s okay to skip the first third)
 
 #### Understanding Masculinity and being a Good Man
 
-- The Way of Men by Jack Donovan
-- Becoming a Barbarian by Jack Donovan
-- A More Complete Beast by Jack Donovan
-- Iron John by Robert Bly
+- [The Way of Men](https://amzn.to/2TtRtXK) by Jack Donovan
+- [Becoming a Barbarian](https://amzn.to/2IeWGh2) by Jack Donovan
+- [A More Complete Beast](https://amzn.to/3csGDKv) by Jack Donovan
+- [Iron John](https://amzn.to/38iE6z1) by Robert Bly
 
 #### Dating and Relationships
 
-- BradP's Entire Body of Work - A comprehensive curriculum on pickup and game. Email me.
+- BradP's [Entire Body of Work](https://www.bradp.com/) - A comprehensive curriculum on pickup and game.
 - Game by Roosh - The single best book that exists on Game. Currently out of print, I've included a copy in the Downloads folder.
-- The Unchained Man by Caleb Jones - The best book on managing relationships.
+- [The Unchained Man](https://amzn.to/2Ihc8cr) by Caleb Jones - The best book on managing relationships.
