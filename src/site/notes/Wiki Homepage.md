@@ -41,9 +41,13 @@ Same
 
 [The Five Minute Aftercare Routine](The%20Five%20Minute%20Aftercare%20Routine.md)
 
+[The Standard Submissive Training Checklist](The%20Standard%20Submissive%20Training%20Checklist.md)
+
 #### Other Lists and Miscellaneous
 
 [Content Creators I Endorse](Content%20Creators%20I%20Endorse.md)
+
+[List of Known HypnoKink Troublemakers](List%20of%20Known%20HypnoKink%20Troublemakers.md)
 
 [Combining Hypnosis and Chemicals](Combining%20Hypnosis%20and%20Chemicals.md)
 
