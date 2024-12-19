@@ -33,7 +33,12 @@ Same
 
 [Guide - How to use Hypnotic Audio Files](Guide%20-%20How%20to%20use%20Hypnotic%20Audio%20Files.md)
 
+
+
+
 #### Techniques
+
+[The 3 Minute Game - Simplified](The%203%20Minute%20Game%20-%20Simplified.md)
 
 [The Eight Questions for Better Sex](The%20Eight%20Questions%20for%20Better%20Sex.md)
 
@@ -41,9 +46,19 @@ Same
 
 [The Five Minute Aftercare Routine](The%20Five%20Minute%20Aftercare%20Routine.md)
 
+[Rough Body Play](Rough%20Body%20Play.md)
+
 [The Standard Submissive Training Checklist](The%20Standard%20Submissive%20Training%20Checklist.md)
 
+[How to Delegate](How%20to%20Delegate.md)
+
+
+
+[Some Notes on Injecting Drugs and Brainwashing Pills](Some%20Notes%20on%20Injecting%20Drugs%20and%20Brainwashing%20Pills.md)
+
 #### Other Lists and Miscellaneous
+
+[Sources of Rope and Kink Education](Sources%20of%20Rope%20and%20Kink%20Education.md)
 
 [Content Creators I Endorse](Content%20Creators%20I%20Endorse.md)
 

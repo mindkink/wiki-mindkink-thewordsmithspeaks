@@ -598,9 +598,9 @@ Password Bank - Bitwarden
 https://bitwarden.com/
 Two Factor Authentication - Authy
 https://authy.com/
-File Sharing - Tresorit
-https://tresorit.com/
-VPN  Mullvad
+File Sharing - Filen
+https://filen.io/
+VPN - Mullvad
 https://mullvad.net/en/
 Web Browser
 https://brave.com/
@@ -1092,7 +1092,7 @@ https://bitwarden.com/ - Password manager
 https://threema.ch/ - Texting and Phone Calls
 https://signal.org/ - BACKUP Texting and Phone Calls
 https://unsplash.com/ - Free Profile Pictures
-https://tresorit.com/ - Secure File Sharing
+https://filen.io/- Secure File Sharing
 
 File Naming Format
 DDMMYY
