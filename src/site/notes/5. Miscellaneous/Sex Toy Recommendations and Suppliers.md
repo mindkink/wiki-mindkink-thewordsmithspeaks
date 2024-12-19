@@ -73,7 +73,7 @@ I've bought and tried more than a few examples from each of the categories below
 
 **High Powered Hitachi Magic Wands / External Vibrators**
 
-[Hitachi Magic Wand Plus (Wired)](https://shevibe.com/magic-wand-plus-variable-speed-corded-magic-wand-vibrator/#oid=1501_1)
+[[https://shevibe.com/magic-wand-plus-variable-speed-corded-magic-wand-vibrator/#oid=1501_1\|https://shevibe.com/magic-wand-plus-variable-speed-corded-magic-wand-vibrator/#oid=1501_1]]
 
 **Dildos and Insertables**
 
