@@ -34,6 +34,23 @@ Same
 [Guide - How to use Hypnotic Audio Files](Guide%20-%20How%20to%20use%20Hypnotic%20Audio%20Files.md)
 
 
+BE AWARE THAT SOME OF THE INFORMATION IN THIS BOOK MAY BE OUT OF DATE AND MAY NOT REFLECT MY CURRENT RECOMMENDATIONS, PRACTICES OR VIEWPOINTS. YOU HAVE BEEN WARNED.
+
+IF YOU BREAK SOMETHING GET IN TOUCH WITH ME DIRECTLY AND I CAN PROBABLY HELP YOU FIX IT.
+
+This book is a compilation of posts and articles, all written by me unless noted, in a rough order of usefulness.
+
+I am working on an updated and expanded version which will be published when I have time.
+
+A lot of it has been superseded by more recent works of mine. I do not enjoy typing and the most recent information can be found in the Podcast.
+
+Some of the information in this book is out of date. None of it should be incorrect, if it is get in touch with me and if you're correct and have spotted an error, I'll send you $10 AUD and put your name in the credits of future editions.
+
+If you use any of the information in this book, give credit where it is due and link people to my Website and credit The Wordsmith.
+
+
+
+
 
 
 #### Techniques

@@ -15,6 +15,22 @@ Any listing of content in this guide is not an endorsement unless directly state
 
 Updates, dead links or additions to this document should be emailed to thewordsmithspeaks@pm.me
 
+#### Erotic Hypnosis Mentions in Media
+
+[https://www.abc.net.au/triplej/programs/the-hook-up/erotic-hypnosis/9714624](https://www.abc.net.au/triplej/programs/the-hook-up/erotic-hypnosis/9714624) - Australia's National Radio Broadcaster invites me on to talk about Erotic Hypnosis. Very informative.
+
+[https://narratively.com/what-its-like-to-have-a-hypnosis-fetish/](https://narratively.com/what-its-like-to-have-a-hypnosis-fetish/) - A Submissive's perspective on their hypnosis fetish.
+
+[https://the-hedge-hypnotist.tumblr.com/post/183551029657/how-do-you-explain-a-hypno-fetish](https://the-hedge-hypnotist.tumblr.com/post/183551029657/how-do-you-explain-a-hypno-fetish) - how do you explain a hypno fetish?
+
+[https://www.matrix.edu.au/essential-guide-english-techniques/the-literary-techniques-toolkit/](https://www.matrix.edu.au/essential-guide-english-techniques/the-literary-techniques-toolkit/) - A list of English Techniques, useful for use in hypnosis.
+
+[https://hypnosisandsuggestion.org/](https://hypnosisandsuggestion.org/) - Research studies on Hypnosis and it's effects.
+
+[https://splinternews.com/yes-women-orgasm-in-their-sleep-science-explains-why-1793848564](https://splinternews.com/yes-women-orgasm-in-their-sleep-science-explains-why-1793848564) - Female Orgasms without awareness or stimulation.
+
+[https://news.stanford.edu/news/2000/september6/hypnosis-96.html](https://news.stanford.edu/news/2000/september6/hypnosis-96.html) - Hypnosis is a real thing, apparently.
+
 #### HypnoKink Educational Content - Erotic Hypnosis Conventions
 
 American

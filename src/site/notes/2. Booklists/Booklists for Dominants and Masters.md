@@ -26,28 +26,34 @@ Better yet, choose to simply identify as Yourself for the entire time you explor
 
 Any and all of these books are recommended, a suggested reading order is from top to bottom.
 
-- No More Mr Nice Guy by Dr Robert Glover
-- Dating Essentials for Men by Dr Robert Glover – **Highly recommended**
-- Dom's Guide to Submissive Training by Elizabeth Cramer – **Highly recommended**
-- The Heart of Dominance by Anton Fulmen – **Highly recommended**
-- The Control Book by Peter Masters
-- The Dominance Playbook by Anton Fulmen – **Highly recommended**
-- Maximum Achievement by Brian Tracy
+[No More Mr Nice Guy](https://amzn.to/33H1KDz) by Dr Robert Glover
+[Dating Essentials for Men](https://amzn.to/2UMCkCI) by Dr Robert Glover
+The Control Book by Peter Masters
+[Dom's Guide to Submissive Training](https://amzn.to/35In3Xd) by Elizabeth Cramer
+[The Heart of Dominance](https://amzn.to/32rY6Nw) by Anton Fulmen
+The Dominance Playbook by Anton Fulmen
+Maximum Achievement by Brian Tracy
+
+[Care and Nurture for the Submissive](https://amzn.to/2J0wnMy) by Elizabeth Cramer
+[Real Service](https://amzn.to/2oIfwHo) by Joshua Tenpenny
+
+
+
+
+
 
 - Care and Nurture for the Submissive by Elizabeth Cramer – **Highly recommended**
 - Real Service by Joshua Tenpenny – **Highly recommended**
 
 #### Specialised and Optional Books
 
-- Igniting the Fire by Master Arcane - High Protocol Dynamics
-- The Ritual of Dominance and Submission by David English - High Protocol Dynamics
-- Devil in the Details: The Art of Mastery Parts 1, 2 and 3 by LT Morrison (A Trilogy) - Mastery
-- The Forked Tongue by Flagg – The final chapter and the Epilogue are EXCELLENT
+[Igniting the Fire](https://amzn.to/2J3mzBo) by Master Arcane - High Protocol Dynamics
+[The Ritual of Dominance and Submission](https://amzn.to/32qyctB) by David English - High Protocol Dynamics
+[Devil in the Details: The Art of Mastery](https://amzn.to/35LJx9C) by LT Morrison (A Trilogy) - Mastery
+The Forked Tongue by Flagg – The final chapter and the Epilogue are EXCELLENT
+[The Rule of Saint Benedict](https://amzn.to/39LjYqb) by Saint Benedict
+[Order for Discipline and Service Handbook](http://www.lulu.com/au/en/shop/order-for-discipline-and-service/order-for-discipline-and-service-handbook/paperback/product-5380059.html) by Mr McG ([more expensive alt. link](https://amzn.to/2J0h9Xz))
 
-- The Rule of Saint Benedict by Saint Benedict - Structuring a Household around Service
-- Order for Discipline and Service Handbook by Mr McG
-
-The Control Book by Peter Masters - On the Nature and Psychological Transfer of Control
 Two Knotty Boys Showing You the Ropes by The Two Knotty Boys – Basic Rope Bondage
 Imaginative Sex by John Norman - Sexual Fantasy and Roleplaying
 
