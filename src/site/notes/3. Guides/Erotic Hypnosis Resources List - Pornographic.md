@@ -38,25 +38,43 @@ Updates, dead links or additions to this document should be emailed to thewordsm
 
 ### Pornographic Content – Websites
 
-- https://voicekink.com/ - Excellent
+
+[https://thewordsmithspeaks.com/](https://thewordsmithspeaks.com/) - **The best Erotic Hypnosis Website there is**. Podcast, Resources Folder, Group Chat, more things than I can list. Go there, enjoy it.
+
+[https://www.hypnoticdreams.com](https://www.hypnoticdreams.com)
+
+
+
+
+
+[http://esuccubus.com/](http://esuccubus.com/)
+
+[http://www.taoofthecrown.com/](http://www.taoofthecrown.com/) - Joseph Crowns Website
+
+
+
+
+- [https://voicekink.com/](https://voicekink.com/) - The Voice - **Excellent**
 - https://hypnokink.de/ - Excellent - GERMAN – Basically the best that exists in that language
 - https://www.blushingdefeat.com/
 - https://mlz.blk.blue/
 - https://www.hypnoticdreams.com
+- [https://sleepingirl.gumroad.com/](https://sleepingirl.gumroad.com/) – use the code iamthesenate on their Gumroad account for a discount.
 - https://www.keepittrancey.com/ - The Secret Subjects Website. Excellent. Update 5th May 2024 – Website appears to be defunct, unsure of the new website location.
 - https://www.warpmymind.com/index.php - Erotic Hypnosis Files
 - https://spiralseductions.com/ - Femdom Erotic Hypnosis
-- https://www.thevelvetdungeon.com - High Quality HypnoPorn
-- http://www.entrancement.co.uk/ - The Best Quality Hypnoporn that exists
-- https://jackdominates.com
-- https://transformhypnosis.com
-- https://neversidelabs.com/ - Incredibly High Quality Files
-- https://vive-hypnosis.com/
-- http://www.esuccubus.com/
-- https://shibbydex.com/
-- https://www.fenoxo.com/
+- [https://www.thevelvetdungeon.com](https://www.thevelvetdungeon.com) - High Quality HypnoPorn
+- [http://www.entrancement.co.uk/](http://www.entrancement.co.uk/) - The Best Quality Hypnoporn that exists
+- [https://jackdominates.com](https://jackdominates.com)
+- [https://transformhypnosis.com](https://transformhypnosis.com)
+- [https://neversidelabs.com/](https://neversidelabs.com/) - **Incredibly High Quality Files**
+- [https://vive-hypnosis.com/](https://vive-hypnosis.com/)
+- [http://www.esuccubus.com/](http://www.esuccubus.com/)
+- [https://shibbydex.com/](https://shibbydex.com/)
+- [https://www.fenoxo.com/](https://www.fenoxo.com/)
 - https://mesmerotic.net/
 - https://www.dahlialark.com/
+- [https://www.mindthebaron.com/](https://www.mindthebaron.com/) - MindTheBaron
 
 ### Pornographic Content – Discord Servers
 
@@ -97,8 +115,11 @@ Updates, dead links or additions to this document should be emailed to thewordsm
 - https://soundgasm.net/u/LilithUnleashed/
 - https://soundgasm.net/u/Earesistible/
 - https://soundgasm.net/u/MistressTess
-- https://soundcloud.com/user-321055361 - Hoosen
 - https://www.youtube.com/channel/UCYJ10IbS6EKtr6VptnUdd7w - Darknosis
+
+- [https://soundcloud.com/user-321055361](https://soundcloud.com/user-321055361) - Hoosen
+- [https://soundcloud.com/ella-enchanting](https://soundcloud.com/ella-enchanting) - EllaEnchanting - **Particularly Skilled.**
+- [https://soundcloud.com/user-618023958](https://soundcloud.com/user-618023958) - Impish
 
 ### Pornographic Content – The Written Word
 
@@ -124,17 +145,21 @@ https://callidus-mc.com/
 
 ### Pornographic Content – Mind Control Video Games
 
-- https://www.fenoxo.com/ - Corruption of Champions 2
-- https://store.steampowered.com/app/950860/Spiral_Clicker/ - Spiral Clicker
-- https://outbreakgames.itch.io/ - SO. MANY. THINGS.
-- https://outbreakgames.itch.io/overwhored - Overwhored. Excellent game!
+- [https://nyxgaming.itch.io/](https://nyxgaming.itch.io/) - Excellent.
+- [https://outbreakgames.itch.io/](https://outbreakgames.itch.io/) - SO. MANY. THINGS.
+
+- [https://www.fenoxo.com/](https://www.fenoxo.com/) - Corruption of Champions 2
+- [https://store.steampowered.com/app/950860/Spiral_Clicker/](https://store.steampowered.com/app/950860/Spiral_Clicker/) - Spiral Clicker
+- [https://outbreakgames.itch.io/overwhored](https://outbreakgames.itch.io/overwhored) - Overwhored. **Excellent game!**
 - https://outbreakgames.itch.io/snow-daze-special-edition - Snow Daze
-- https://store.steampowered.com/app/990230/Mind_Massaging_Machine/ - Mind Massaging Machine
-- https://nyxgaming.itch.io/ - Excellent.
-- https://www.patreon.com/arcgames - Corrupted Kingdoms
-- https://smilingdog.itch.io/nano-control - Nano Control
-- https://www.patreon.com/pedevelopment - Perverted Education
-- https://tfgames.site/index.php?module=viewgame&id=1026 – Perverted Education
+- [https://store.steampowered.com/app/990230/Mind_Massaging_Machine/](https://store.steampowered.com/app/990230/Mind_Massaging_Machine/) - Mind Massaging Machine
+- [https://outbreakgames.itch.io/snow-daze-special-edition](https://outbreakgames.itch.io/snow-daze-special-edition) - Snow Haze
+- [https://www.patreon.com/arcgames](https://www.patreon.com/arcgames) - Corrupted Kingdoms
+- [https://smilingdog.itch.io/nano-control](https://smilingdog.itch.io/nano-control) - Nano Control
+- [https://www.patreon.com/pedevelopment](https://www.patreon.com/pedevelopment) - Perverted Education
+
+[https://tfgames.site/index.php?module=viewgame&id=1026](https://tfgames.site/index.php?module=viewgame&id=1026) – Perverted Education
+
 - https://mistresscalia.com/caliaquest/
 - https://github.com/PetitTournesol/Edgeware – Can damage your computer. Use with caution and included here only for completeness.
 - https://www.reddit.com/r/EdgingWare/ – Related to the above link. Possibly damages your computer.

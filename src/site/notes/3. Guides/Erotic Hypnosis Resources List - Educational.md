@@ -33,44 +33,42 @@ European
 
 #### Educational Content - Websites
 
-https://thewordsmithspeaks.com/ - The website of the person who assembled this list.
-Podcast, Resources Folder, Community, more things than I can list. Go there, enjoy it.
-https://www.learnhypnokink.com/
-https://voicekink.com/ - Excellent. Update 5th May 2024 – website seems to be dead, contact me directly if you would like directions to where a copy of the content can be obtained.
-https://www.patreon.com/twohypchicks - Two Hyp Chicks. A LOT of content.
-https://sleepingirl.carrd.co/ – Same as above link but includes all their content.
-https://shop.pandastory.love/l/101
-https://www.pandastory.love/101
-https://hypnokink.de/schnellhypnose-videos/ - GERMAN – A series of excellent videos.
-http://powerinpractice.com/ - Some Podcast Episodes deal with Mindfucks and touch on EH.
-https://renegadehypnotist.com - Expensive, but his Essentials Program is absolutely worth it.
-https://binauralhistolog.com/newbie/ - A Good Beginners Guide. Quite Good.
+- https://thewordsmithspeaks.com/ - The website of the person who assembled this list. Podcast, Resources Folder, Community, more things than I can list. Go there, enjoy it.
+- https://www.learnhypnokink.com/
+- https://voicekink.com/ - Excellent. Update 5th May 2024 – website seems to be dead, contact me directly if you would like directions to where a copy of the content can be obtained.
+- https://www.patreon.com/twohypchicks - Two Hyp Chicks. A LOT of content.
+- https://sleepingirl.carrd.co/ – Same as above link but includes all their content.
+- https://shop.pandastory.love/l/101
+- https://www.pandastory.love/101
+- https://hypnokink.de/schnellhypnose-videos/ - GERMAN – A series of excellent videos.
+- http://powerinpractice.com/ - Some Podcast Episodes deal with Mindfucks and touch on EH.
+- https://renegadehypnotist.com - Expensive, but his Essentials Program is absolutely worth it.
+- [https://binauralhistolog.com/newbie/index.html](https://binauralhistolog.com/newbie/index.html) - A Good Beginners Guide. **Recommended.**
+- https://www.cosmic-pancakes.com/
+- https://www.cosmic-pancakes.com/blog/undine-de-riviere
+- https://www.cosmic-pancakes.com/blog/compliance-belief
 
-https://www.cosmic-pancakes.com/
-https://www.cosmic-pancakes.com/blog/undine-de-riviere
-https://www.cosmic-pancakes.com/blog/compliance-belief
+- https://propwhisperer.wixsite.com/
+- https://propwhisperer.wixsite.com/the-ehrc
 
-https://propwhisperer.wixsite.com/
-https://propwhisperer.wixsite.com/the-ehrc
+- https://hypnokink.miraheze.org/wiki/Main_Page
 
-https://hypnokink.miraheze.org/wiki/Main_Page
+- https://www.chaotichypno.com/
 
-https://www.chaotichypno.com/
-
-https://thehypnocollective.com/
+- https://thehypnocollective.com/
 
 
 #### HypnoKink Educational Content - Educational Videos
 
-https://voicekink.com/ - The Voice
-https://shop.pandastory.love/l/101
-https://www.pandastory.love/101
-https://www.youtube.com/watch?v=HroA5w7t568 – The Secret Subject Educational 101
-https://www.patreon.com/twohypchicks - Two Hyp Chicks. Video on Pacing and Leading
-https://hypnokink.de/schnellhypnose-videos/ - GERMAN – A series of excellent videos.
-https://www.youtube.com/watch?v=dTuJQFcDiJs - Mesmerotic – Erotic Hypnosis for Beginners
+- https://voicekink.com/ - The Voice
+- https://shop.pandastory.love/l/101
+- https://www.pandastory.love/101
+- https://www.youtube.com/watch?v=HroA5w7t568 – The Secret Subject Educational 101
+- https://www.patreon.com/twohypchicks - Two Hyp Chicks. Video on Pacing and Leading
+- https://hypnokink.de/schnellhypnose-videos/ - GERMAN – A series of excellent videos.
+- https://www.youtube.com/watch?v=dTuJQFcDiJs - Mesmerotic – Erotic Hypnosis for Beginners
 
-https://www.youtube.com/playlist?list=PL1DC52BA902F829C6 - Not specific to HypnoKink but useful.
+- https://www.youtube.com/playlist?list=PL1DC52BA902F829C6 - Not specific to HypnoKink but useful.
 
 #### HypnoKink Educational Content - Books
 In no particular order.

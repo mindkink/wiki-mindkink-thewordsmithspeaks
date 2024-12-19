@@ -41,15 +41,12 @@ Same
 
 [The Five Minute Aftercare Routine](The%20Five%20Minute%20Aftercare%20Routine.md)
 
-#### Other Lists
+#### Other Lists and Miscellaneous
 
 [Content Creators I Endorse](Content%20Creators%20I%20Endorse.md)
 
+[Combining Hypnosis and Chemicals](Combining%20Hypnosis%20and%20Chemicals.md)
 
-
-
-#### Miscellaneous
-
-[Content Creation Notes and Technical Details](Content%20Creation%20Notes%20and%20Technical%20Details.md)
+[How I Do It - Content Creation Notes and Technical Details](How%20I%20Do%20It%20-%20Content%20Creation%20Notes%20and%20Technical%20Details.md)
 
 [Transcript of the Australian Broadcasting Company Interview](Transcript%20of%20the%20Australian%20Broadcasting%20Company%20Interview.md)
