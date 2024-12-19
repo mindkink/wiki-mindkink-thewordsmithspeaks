@@ -554,7 +554,7 @@ Both are significant threats countered in roughly the same way (because the Kink
 ### Information
 
 First create a real-sounding Fake Real Name. From now on, use only this in Kink.
-Then create a free ProtonMail account with nothing personally identifiable in the email address (see list below) which may be based on your Fetlife Nickname, but may not be. This becomes your Kink Point of Contact, along with your Threema ID. Go into ProtonMail Settings and activate the shortened "\@pm.me" if you wish to.
+Then create a free ProtonMail account with nothing personally identifiable in the email address (see list below) which may be based on your Fetlife Nickname, but may not be. This becomes your Kink Point of Contact, along with your Signal account. Go into ProtonMail Settings and activate the shortened "\@pm.me" if you wish to.
 Use your ProtonMail account to create a Bitwarden Account. Make secure passwords.
 Open up an Authy Account.
 Enable Two Factor Authentication on ProtonMail if you wish to.
@@ -564,7 +564,7 @@ Put your secure contact details on your Fet Profile. Do not share any informatio
 
 ### A Worked Example
 
-John is a smart guy. John makes up a fake Kink Name, "Robert" and a Fet handle "Squishy". He registers a free Protonmail Account under his Fet username, Squishy so his email address becomes thatsmistersquishy\@protonmail.com He downloads the Threema App and links it to his Kink email address so his kink friends can find him. He uses that email account for creating a Fetlife Account, uses Bitwarden to secure his passwords and Authy for Two-Factor Authentication. He gives his kink email and ThreemaID to people so they can get in touch. John introdcues himself as Robert to everyone he meets in Kink. John uses his brain and doesn't share any information on the list below with anyone in kink unless he chooses to.
+John is a smart guy. John makes up a fake Kink Name, "Robert" and a Fet handle "Squishy". He registers a free Protonmail Account under his Fet username, Squishy so his email address becomes thatsmistersquishy\@protonmail.com He downloads the Threema App and links it to his Kink email address so his kink friends can find him. He uses that email account for creating a Fetlife Account, uses Bitwarden to secure his passwords and Authy for Two-Factor Authentication. He gives his kink email and ThreemaID to people so they can get in touch. John introduces himself as Robert to everyone he meets in Kink. John uses his brain and doesn't share any information on the list below with anyone in kink unless he chooses to.
 
 ### Simple Rules Around Personal Information
 
@@ -593,7 +593,6 @@ https://threema.ch/
 Secure Texting - Runner Up - Signal
 https://www.signal.org/
 
-*Optional but Still Very Useful*
 Password Bank - Bitwarden
 https://bitwarden.com/
 Two Factor Authentication - Authy
@@ -607,7 +606,6 @@ https://brave.com/
 
 Use these Extensions and install them only from the Chrome App Store
 uBlock Origin
-Decentraleyes
 Bitwarden
 
 *Used by Community Groups*
@@ -1056,7 +1054,6 @@ Image Compression
 https://tinyjpg.com/
 https://tinypng.com/
 
-https://tiny-webp.com/
 https://compress-or-die.com/webp
 https://shrinkme.app/
 
@@ -1092,7 +1089,7 @@ https://bitwarden.com/ - Password manager
 https://threema.ch/ - Texting and Phone Calls
 https://signal.org/ - BACKUP Texting and Phone Calls
 https://unsplash.com/ - Free Profile Pictures
-https://filen.io/- Secure File Sharing
+https://filen.io/ - Secure File Sharing
 
 File Naming Format
 DDMMYY
