@@ -1041,7 +1041,6 @@ https://signal.org/
 
 ### Other Links
 
-https://getpublii.com/ - Desktop-based Static Site Generator. Blog oriented.
 https://obsidian.md/ - Markdown based Content Generation
 https://typora.io/ - A not terrible Markdown Editor
 https://www.epik.com/ - Alternative Domain Host
