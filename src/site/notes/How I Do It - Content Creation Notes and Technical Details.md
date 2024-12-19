@@ -96,7 +96,7 @@ https://handbrake.fr/
 
 https://ffmpeg-batch.sourceforge.io/
 
-### Standard Process for Content Creation
+#### Standard Process for Content Creation
 
  1. Clarify the Intention of what you want to create. If it isn't written down it isn't real. 
  2. Create a Brand and Identity.
@@ -119,7 +119,7 @@ Avoid Drama. Do not make a publicly accessible Discord server. Do not allow know
 
 Be true to yourself and your inner voice when it comes to who you are and what unique contributions you have to make to the world :-) Do not allow anyone else to make the decisions or do the thinking for you. Seek help and advice from people BEFORE you need it, but remember that you are under no obligation to follow it. 
 
-## Audio Recording - Software and Hardware including Example Setups
+#### Audio Recording - Software and Hardware including Example Setups
 
 **Intention**
 
@@ -160,7 +160,7 @@ Publish
 
 **Eliminating Background Noise WHILE recording**
 
-A little trickier bus basically the same.
+A little trickier but basically the same.
 
 Download and install Waves Clarity Vx, run it through LightHost, then use Voicemeeter to connect all your virtual inputs together so your recording / streaming software can connect to it and record. Buy a license to Waves Clarity Vx Plugin. Note that Pro version is not needed, just the basic version.
 
@@ -185,7 +185,6 @@ https://vb-audio.com/Voicemeeter/
 
 Open Ocenaudio or Audacity and record from that input
 
-
 #### Master List of all Software and Hardware
 
 **Software**
@@ -194,8 +193,6 @@ Inputs - https://vb-audio.com/Cable/index.htm
 
 Mixing - https://vb-audio.com/
 Mixing - https://vb-audio.com/Voicemeeter/ - RECOMMENDED
-Mixing - https://vb-audio.com/Voicemeeter/banana.htm - Basic
-Mixing - https://vb-audio.com/Voicemeeter/potato.htm - ADVANCED
 
 Eliminating Noise - https://www.waves.com/
 Eliminating Noise - https://www.waves.com/plugins/clarity-vx - Basic, very affordable
