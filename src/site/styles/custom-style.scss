@@ -1,13 +1,6 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    $sidebar-width: 20%; /* Define the original width */
+.sidebar {
+  width: $sidebar-width + ($sidebar-width * 0.5); /* Increase width by 50% */
+}
 }
