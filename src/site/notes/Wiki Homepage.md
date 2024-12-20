@@ -21,8 +21,6 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Additional Podcast Material
 
-[[1. The Podcast/Podcast Episode Show Notes\|Podcast Episode Show Notes]] - Wiki style, default wiki style
-
 [[1. The Podcast/Podcast Episode Show Notes\|Podcast Episode Show Notes]] Where you will find all of the notes and links mentioned in podcast episodes.
 
 [[1. The Podcast/Podcast Episode Descriptions\|Podcast Episode Descriptions]] - Where you will find all the descriptions of podcast episodes and the topics they cover in detail.
