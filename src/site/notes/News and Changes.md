@@ -5,8 +5,8 @@
 
 2024-12-19
 
-* Reorganised internal file structure to make content easier to find.
-* Recreated MindKink Wiki and began moving and updating all written content to this as primary location with exported PDF's as needed.
+Reorganised internal file structure to make content easier to find.
+Recreated MindKink Wiki and began moving and updating all written content to this as primary location with exported PDF's as needed.
 
 2024-11-23
 
