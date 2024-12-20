@@ -23,6 +23,8 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 [Podcast Episode Show Notes](1.%20The%20Podcast/Podcast%20Episode%20Show%20Notes.md)
 
+[Podcast Episode Show Notes](1.%20The%20Podcast/Podcast%20Episode%20Show%20Notes.md)
+
 [Podcast Episode Show Notes](Podcast%20Episode%20Show%20Notes.md) Where you will find all of the notes and links mentioned in podcast episodes.
 
 [Podcast Episode Descriptions](Podcast%20Episode%20Descriptions.md) - Where you will find all the descriptions of podcast episodes and the topics they cover in detail.
