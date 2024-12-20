@@ -46,15 +46,15 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Techniques
 
-- [[4. Techniques/Guest Post - How Would I train a Slavegirl if I was a Master\|4. Techniques/Guest Post - How Would I train a Slavegirl if I was a Master]]
+- [[4. Techniques/Guest Post - How Would I train a Slavegirl if I was a Master\|Guest Post - How Would I train a Slavegirl if I was a Master]]
 
-- [[4. Techniques/An Incomplete Guide to Self Care for Submissives\|4. Techniques/An Incomplete Guide to Self Care for Submissives]]
+- [[4. Techniques/An Incomplete Guide to Self Care for Submissives\|An Incomplete Guide to Self Care for Submissives]]
 
 - [[4. Techniques/Rough Body Play\|Rough Body Play]]
 - [[4. Techniques/The Standard Submissive Training Checklist\|The Standard Submissive Training Checklist]]
-- [[4. Techniques/Willpower and Habituation\|4. Techniques/Willpower and Habituation]]
-- [[4. Techniques/Why Hypnosis and Sex Work So Well Together\|4. Techniques/Why Hypnosis and Sex Work So Well Together]]
-- [[4. Techniques/The Training Process\|4. Techniques/The Training Process]]
+- [[4. Techniques/Willpower and Habituation\|Willpower and Habituation]]
+- [[4. Techniques/Why Hypnosis and Sex Work So Well Together\|Why Hypnosis and Sex Work So Well Together]]
+- [[4. Techniques/The Training Process\|The Training Process]]
 
 - [[4. Techniques/The 3 Minute Game - Simplified\|The 3 Minute Game - Simplified]]
 - [[4. Techniques/How to Have A Scene\|How to Have A Scene]]
@@ -62,10 +62,10 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 - [[AAR)](AAR\|The After Action Review (AAR)]]
 - [[4. Techniques/The Five Minute Aftercare Routine\|The Five Minute Aftercare Routine]]
 
-- [[4. Techniques/Submissive Training Assessment Tools\|4. Techniques/Submissive Training Assessment Tools]]
-- [[4. Techniques/Rough Guidelines on Setting Rules\|4. Techniques/Rough Guidelines on Setting Rules]]
-- [[4. Techniques/How to Have A Scene\|4. Techniques/How to Have A Scene]]
-- [[4. Techniques/Combining Hypnosis and Chemicals\|4. Techniques/Combining Hypnosis and Chemicals]]
+- [[4. Techniques/Submissive Training Assessment Tools\|Submissive Training Assessment Tools]]
+- [[4. Techniques/Rough Guidelines on Setting Rules\|Rough Guidelines on Setting Rules]]
+- [[4. Techniques/How to Have A Scene\|How to Have A Scene]]
+- [[4. Techniques/Combining Hypnosis and Chemicals\|Combining Hypnosis and Chemicals]]
 - [[4. Techniques/How to Delegate\|How to Delegate]]
 - [[4. Techniques/Some Notes on Injecting Drugs and Brainwashing Pills\|Some Notes on Injecting Drugs and Brainwashing Pills]]
 
