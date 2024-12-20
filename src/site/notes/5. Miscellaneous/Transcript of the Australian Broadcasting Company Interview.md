@@ -105,7 +105,7 @@ Yeah. Like, it's it's easy to kinda go into a state and kind of, like, vivify, a
 
 Yeah. Yeah. Absolutely. As well as acting out things that are a bit impractical in real life, like, you know, sex in public is a big fantasy, but finding people that are willing to consent to watching you without going to a swingers club can be hard sometimes. So you can simply take someone in a trance, have sex with your girlfriend or boyfriend while they're hypnotized with their consent, and suggest to them that there's someone else in the room watching them, and let them enjoy that experience of being watched.
 
-Yeah. Well, we're almost out of time tonight on the hookup, but did you have any last piece of advice for anyone who wants to give this a go with their partner? So I have a website at the wordsmithspeaks.com, with links to all my classes. I run them, pretty regularly here in Melbourne. I'm very active in the kinks scene, and we have a regular practice group for erotic hypnosis, which you can join by applying on my website.
+Yeah. Well, we're almost out of time tonight on the hookup, but did you have any last piece of advice for anyone who wants to give this a go with their partner? So I have a website at https://thewordsmithspeaks.com, with links to all my classes. I run them, pretty regularly here in Melbourne. I'm very active in the kink scene, and we have a regular practice group for erotic hypnosis, which you can join by applying on my website.
 
 I'd also suggest for anyone just starting out, they purchase Mark Wiseman's book, Mind Play. It's basically the the textbook for erotic hypnosis. Great. Daniel, the wordsmith, thank you so much for joining us, and Elizabeth as well on the hookup. Thank you.
 
