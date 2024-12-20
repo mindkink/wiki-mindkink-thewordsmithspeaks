@@ -21,8 +21,6 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Additional Podcast Material
 
-[[1. The Podcast/Podcast Episode Show Notes\|1. The Podcast/Podcast Episode Show Notes.md]] - Markdown, absolute
-
 [[1. The Podcast/Podcast Episode Show Notes\|Podcast Episode Show Notes]] - Wiki style, default wiki style
 
 [[1. The Podcast/Podcast Episode Show Notes\|Podcast Episode Show Notes.md]] Where you will find all of the notes and links mentioned in podcast episodes.
