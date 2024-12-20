@@ -57,7 +57,7 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 - [[4. Techniques/The 3 Minute Game - Simplified\|The 3 Minute Game - Simplified]]
 - [[4. Techniques/How to Have A Scene\|How to Have A Scene]]
 - [[4. Techniques/The Eight Questions for Better Sex\|The Eight Questions for Better Sex]]
-- [[AAR)](AAR\|The After Action Review (AAR)]]
+- [[4. Techniques/The After Action Review (AAR)\|The After Action Review (AAR)]]
 - [[4. Techniques/The Five Minute Aftercare Routine\|The Five Minute Aftercare Routine]]
 
 - [[4. Techniques/Submissive Training Assessment Tools\|Submissive Training Assessment Tools]]
