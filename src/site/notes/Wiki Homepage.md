@@ -59,21 +59,23 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 - [[4. Techniques/The Eight Questions for Better Sex\|The Eight Questions for Better Sex]]
 - [[4. Techniques/The After Action Review (AAR)\|The After Action Review (AAR)]]
 - [[4. Techniques/The Five Minute Aftercare Routine\|The Five Minute Aftercare Routine]]
+- [[4. Techniques/Building Your Own Sex Kit\|Building Your Own Sex Kit]]
+- [[4. Techniques/Building Better Triggers - In Detail\|Building Better Triggers - In Detail]]
 
 - [[4. Techniques/Submissive Training Assessment Tools\|Submissive Training Assessment Tools]]
 - [[4. Techniques/Rough Guidelines on Setting Rules\|Rough Guidelines on Setting Rules]]
-- [[4. Techniques/How to Have A Scene\|How to Have A Scene]]
-- [[4. Techniques/Combining Hypnosis and Chemicals\|Combining Hypnosis and Chemicals]]
 - [[4. Techniques/How to Delegate\|How to Delegate]]
+- [[4. Techniques/Combining Hypnosis and Chemicals\|Combining Hypnosis and Chemicals]]
 - [[4. Techniques/Some Notes on Injecting Drugs and Brainwashing Pills\|Some Notes on Injecting Drugs and Brainwashing Pills]]
 
 #### Other Lists and Miscellaneous
 
-- [[5. Miscellaneous/Corsetry Resources\|Corsetry Resources]]
-- [[5. Miscellaneous/Sources of Rope and Kink Education\|Sources of Rope and Kink Education]]
 - [[5. Miscellaneous/Content Creators I Endorse\|Content Creators I Endorse]]
-- [[5. Miscellaneous/List of Known HypnoKink Troublemakers\|List of Known HypnoKink Troublemakers]]
+- [[5. Miscellaneous/Sources of Rope and Kink Education\|Sources of Rope and Kink Education]]
+- [[5. Miscellaneous/Corsetry Resources\|Corsetry Resources]]
 - [[5. Miscellaneous/Sex Toy Recommendations and Suppliers\|Sex Toy Recommendations and Suppliers]]
+- [[5. Miscellaneous/List of Known HypnoKink Troublemakers\|List of Known HypnoKink Troublemakers]]
+
 
 [[5. Miscellaneous/Transcript of the Australian Broadcasting Company Interview\|Transcript of the Australian Broadcasting Company Interview]]
 
