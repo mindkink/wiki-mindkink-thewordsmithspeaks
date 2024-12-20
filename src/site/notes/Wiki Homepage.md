@@ -6,8 +6,6 @@
 [[News and Changes\|News and Changes.md]]
 [[How I Do It - Content Creation Notes and Technical Details\|How I Do It - Content Creation Notes and Technical Details.md]]
 
-
-
 Contact Me:
 
 [[https://signal.me/#eu/UcSdV3OwiCh4vVO8Yv0FtEe5xh4QHRiDd4ls6pLLG-I9k64oV-tEiL1fAiWYvCo9\|Signal]] (strongly preferred)
