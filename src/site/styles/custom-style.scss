@@ -1,2 +1,14 @@
 body {
+.container {
+ display: flex;
+}
+
+.sidebar {
+  width: 37.5%; /* Increased width by 50% from 25% */
+}
+
+.main-content {
+  width: 62.5%; /* Adjusted to balance with the new sidebar width */
+}
+
 }
