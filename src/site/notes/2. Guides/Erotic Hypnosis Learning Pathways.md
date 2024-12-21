@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-guides/erotic-hypnosis-learning-pathways/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/2-guides/erotic-hypnosis-learning-pathways/"}
 ---
 
 
