@@ -11,7 +11,7 @@ Contact Me:
 [Signal](https://signal.me/#eu/UcSdV3OwiCh4vVO8Yv0FtEe5xh4QHRiDd4ls6pLLG-I9k64oV-tEiL1fAiWYvCo9) - (strongly preferred)
 [Email](mailto:thewordsmithspeaks@pm.me)
 
-This simple website contains all of my written material, including podcast notes and descriptions, guides, several extensive booklists, articles, technique breakdowns and processes and a few other things. There are more than 100,000 + words linked here. It is stored as a series of CommonMark files in the Resources Folder, so pulling a copy of that will also include this site. Tech details can be found below.
+This simple website contains all of my written material, including podcast notes and descriptions, guides, several extensive booklists, articles, technique breakdowns and processes and a few other things. There are more than 46,000 + words linked here. It is stored as a series of CommonMark files in the Resources Folder, so pulling a copy of that will also include this site. Tech details can be found above.
 
 If you use any of the information in this resource, give credit where it is due and link people to my Website https://thewordsmithspeaks.com and credit The Wordsmith.
 
