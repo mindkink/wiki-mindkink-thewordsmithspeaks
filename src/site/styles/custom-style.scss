@@ -1,2 +1,5 @@
 body {
+  .filetree-sidebar {
+    width: calc(var(--original-sidebar-width, 200px) * 1.5); /* Adjust as necessary */
+}
 }
