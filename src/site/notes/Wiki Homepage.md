@@ -27,7 +27,7 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Major Guides
 
-[[2. Guides/Erotic Hypnosis Learning Pathways\|Erotic Hypnosis Learning Pathways]] UNFINISHED - A good place to start.
+[[2. Guides/Erotic Hypnosis Learning Pathways\|Erotic Hypnosis Learning Pathways]] (UNFINISHED) - A good place to start.
 
 [[2. Guides/Erotic Hypnosis Resources List - Educational\|Erotic Hypnosis Resources List - Educational]] - Contains an exhaustive and constantly updated list of Erotic Hypnosis Conventions, Websites, Educational Videos, Podcasts, media mentions of Erotic Hypnosis, Discord Servers and Hypnosis Software. Focus on Education.
 
