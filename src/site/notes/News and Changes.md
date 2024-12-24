@@ -3,6 +3,10 @@
 ---
 
 
+2024-12-24
+
+Added the Class Kit, an extensible full-source-provided set of templates for running your own in-person erotic hypnosis basics class.
+
 2024-12-19
 
 Reorganised internal file structure to make content easier to find.
