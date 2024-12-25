@@ -21,9 +21,9 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Additional Podcast Material
 
-[[1. The Podcast/Podcast Episode Show Notes\|Podcast Episode Show Notes]] Where you will find all of the notes and links mentioned in podcast episodes.
+[[1. Podcast Notes and Descriptions/Podcast Episode Show Notes\|1. Podcast Notes and Descriptions/Podcast Episode Show Notes]] Where you will find all of the notes and links mentioned in podcast episodes.
 
-[[1. The Podcast/Podcast Episode Descriptions\|Podcast Episode Descriptions]] - Where you will find all the descriptions of podcast episodes and the topics they cover in detail.
+[[1. Podcast Notes and Descriptions/Podcast Episode Descriptions\|1. Podcast Notes and Descriptions/Podcast Episode Descriptions]] - Where you will find all the descriptions of podcast episodes and the topics they cover in detail.
 
 #### Major Guides
 
@@ -37,10 +37,10 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Booklists
 
-- [[3. Booklists/Books for HypnoKink and General Hypnotists\|Books for HypnoKink and General Hypnotists]]
-- [[3. Booklists/Books for Submissives and Slaves\|Books for Submissives and Slaves]]
-- [[3. Booklists/Booklists for Dominants and Masters\|Booklists for Dominants and Masters]]
-- [[3. Booklists/Books for Men\|Books for Men]]
+- [[4. Booklists/Books for HypnoKink and General Hypnotists\|4. Booklists/Books for HypnoKink and General Hypnotists]]
+- [[4. Booklists/Books for Submissives and Slaves\|4. Booklists/Books for Submissives and Slaves]]
+- [[4. Booklists/Booklists for Dominants and Masters\|4. Booklists/Booklists for Dominants and Masters]]
+- [[4. Booklists/Books for Men\|4. Booklists/Books for Men]]
 
 #### Techniques
 
