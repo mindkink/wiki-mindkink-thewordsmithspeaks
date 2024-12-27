@@ -3,6 +3,10 @@
 ---
 
 
+2024-12-25
+
+Uploaded the word accurate copies of the scripts to all Soundgasm NSFW audios. Massive thanks to A for proofing these.
+
 2024-12-24
 
 Added the Class Kit, an extensible full-source-provided set of templates for running your own in-person erotic hypnosis basics class.
