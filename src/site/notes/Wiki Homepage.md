@@ -79,3 +79,8 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 [[6. Miscellaneous/Transcript of the Australian Broadcasting Company Interview\|Transcript of the Australian Broadcasting Company Interview]]
 
 Note to self: Links to pages on this page must be Wiki-style links, outgoing must be Markdown-style. Other pages can be Markdown-style
+
+
+#### Credits
+
+Thank you to A for proofing the completed copies of the scripts for the old brainwashing audios on Soundgasm.

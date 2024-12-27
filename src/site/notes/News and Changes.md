@@ -9,7 +9,7 @@ Uploaded the word accurate copies of the scripts to all Soundgasm NSFW audios. M
 
 2024-12-24
 
-Added the Class Kit, an extensible full-source-provided set of templates for running your own in-person erotic hypnosis basics class.
+Re-added the Class Kit, an extensible full-source-provided set of templates for running your own in-person erotic hypnosis basics class. This will be updated as I go along with further content as it is an important part of teaching and spreading high quality HypnoKink education.
 
 2024-12-19
 
