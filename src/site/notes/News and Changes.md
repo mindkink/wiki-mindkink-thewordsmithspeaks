@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-and-changes/"}
+{"dg-publish":true,"permalink":"/news-and-changes/","pinned":true}
 ---
 
 

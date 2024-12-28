@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki-homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/wiki-homepage/","pinned":true,"tags":["gardenEntry"]}
 ---
 
 
