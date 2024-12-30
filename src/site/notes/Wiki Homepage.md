@@ -44,39 +44,39 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Techniques
 
-- [[6. Techniques/Guest Post - How Would I train a Slavegirl if I was a Master\|6. Techniques/Guest Post - How Would I train a Slavegirl if I was a Master]]
+- [[5. Techniques/Guest Post - How Would I train a Slavegirl if I was a Master\|5. Techniques/Guest Post - How Would I train a Slavegirl if I was a Master]]
 
-- [[6. Techniques/An Incomplete Guide to Self Care for Submissives\|6. Techniques/An Incomplete Guide to Self Care for Submissives]]
+- [[5. Techniques/An Incomplete Guide to Self Care for Submissives\|5. Techniques/An Incomplete Guide to Self Care for Submissives]]
 
-- [[6. Techniques/Rough Body Play\|6. Techniques/Rough Body Play]]
-- [[6. Techniques/The Standard Submissive Training Checklist\|6. Techniques/The Standard Submissive Training Checklist]]
-- [[6. Techniques/Willpower and Habituation\|6. Techniques/Willpower and Habituation]]
-- [[6. Techniques/Why Hypnosis and Sex Work So Well Together\|6. Techniques/Why Hypnosis and Sex Work So Well Together]]
-- [[6. Techniques/The Training Process\|6. Techniques/The Training Process]]
+- [[5. Techniques/Rough Body Play\|5. Techniques/Rough Body Play]]
+- [[5. Techniques/The Standard Submissive Training Checklist\|5. Techniques/The Standard Submissive Training Checklist]]
+- [[5. Techniques/Willpower and Habituation\|5. Techniques/Willpower and Habituation]]
+- [[5. Techniques/Why Hypnosis and Sex Work So Well Together\|5. Techniques/Why Hypnosis and Sex Work So Well Together]]
+- [[5. Techniques/The Training Process\|5. Techniques/The Training Process]]
 
-- [[6. Techniques/The 3 Minute Game - Simplified\|6. Techniques/The 3 Minute Game - Simplified]]
-- [[6. Techniques/How to Have A Scene\|6. Techniques/How to Have A Scene]]
-- [[6. Techniques/The Eight Questions for Better Sex\|6. Techniques/The Eight Questions for Better Sex]]
-- [[6. Techniques/The After Action Review (AAR)\|6. Techniques/The After Action Review (AAR)]]
-- [[6. Techniques/The Five Minute Aftercare Routine\|6. Techniques/The Five Minute Aftercare Routine]]
-- [[6. Techniques/Building Your Own Sex Kit\|6. Techniques/Building Your Own Sex Kit]]
-- [[6. Techniques/Building Better Triggers - In Detail\|6. Techniques/Building Better Triggers - In Detail]]
+- [[5. Techniques/The 3 Minute Game - Simplified\|5. Techniques/The 3 Minute Game - Simplified]]
+- [[5. Techniques/How to Have A Scene\|5. Techniques/How to Have A Scene]]
+- [[5. Techniques/The Eight Questions for Better Sex\|5. Techniques/The Eight Questions for Better Sex]]
+- [[5. Techniques/The After Action Review (AAR)\|5. Techniques/The After Action Review (AAR)]]
+- [[5. Techniques/The Five Minute Aftercare Routine\|5. Techniques/The Five Minute Aftercare Routine]]
+- [[5. Techniques/Building Your Own Sex Kit\|5. Techniques/Building Your Own Sex Kit]]
+- [[5. Techniques/Building Better Triggers - In Detail\|5. Techniques/Building Better Triggers - In Detail]]
 
-- [[6. Techniques/Submissive Training Assessment Tools\|6. Techniques/Submissive Training Assessment Tools]]
-- [[6. Techniques/Rough Guidelines on Setting Rules\|6. Techniques/Rough Guidelines on Setting Rules]]
-- [[6. Techniques/How to Delegate\|6. Techniques/How to Delegate]]
-- [[6. Techniques/Combining Hypnosis and Chemicals\|6. Techniques/Combining Hypnosis and Chemicals]]
-- [[6. Techniques/Some Notes on Injecting Drugs and Brainwashing Pills\|6. Techniques/Some Notes on Injecting Drugs and Brainwashing Pills]]
+- [[5. Techniques/Submissive Training Assessment Tools\|5. Techniques/Submissive Training Assessment Tools]]
+- [[5. Techniques/Rough Guidelines on Setting Rules\|5. Techniques/Rough Guidelines on Setting Rules]]
+- [[5. Techniques/How to Delegate\|5. Techniques/How to Delegate]]
+- [[5. Techniques/Combining Hypnosis and Chemicals\|5. Techniques/Combining Hypnosis and Chemicals]]
+- [[5. Techniques/Some Notes on Injecting Drugs and Brainwashing Pills\|5. Techniques/Some Notes on Injecting Drugs and Brainwashing Pills]]
 
 #### Other Lists and Miscellaneous
 
-- [[7. Miscellaneous/Content Creators I Endorse\|7. Miscellaneous/Content Creators I Endorse]]
-- [[7. Miscellaneous/Sources of Rope and Kink Education\|7. Miscellaneous/Sources of Rope and Kink Education]]
-- [[7. Miscellaneous/Corsetry Resources\|7. Miscellaneous/Corsetry Resources]]
-- [[7. Miscellaneous/Sex Toy Recommendations and Suppliers\|7. Miscellaneous/Sex Toy Recommendations and Suppliers]]
-- [[7. Miscellaneous/List of Known HypnoKink Troublemakers\|7. Miscellaneous/List of Known HypnoKink Troublemakers]]
+- [[8. Miscellaneous/Content Creators I Endorse\|8. Miscellaneous/Content Creators I Endorse]]
+- [[8. Miscellaneous/Sources of Rope and Kink Education\|8. Miscellaneous/Sources of Rope and Kink Education]]
+- [[8. Miscellaneous/Corsetry Resources\|8. Miscellaneous/Corsetry Resources]]
+- [[8. Miscellaneous/Sex Toy Recommendations and Suppliers\|8. Miscellaneous/Sex Toy Recommendations and Suppliers]]
+- [[8. Miscellaneous/List of Known HypnoKink Troublemakers\|8. Miscellaneous/List of Known HypnoKink Troublemakers]]
 
-[[7. Miscellaneous/Transcript of the Australian Broadcasting Company Interview\|7. Miscellaneous/Transcript of the Australian Broadcasting Company Interview]]
+[[8. Miscellaneous/Transcript of the Australian Broadcasting Company Interview\|8. Miscellaneous/Transcript of the Australian Broadcasting Company Interview]]
 
 Note to self: Links to pages on this page must be Wiki-style links, outgoing must be Markdown-style. Other pages can be Markdown-style
 
