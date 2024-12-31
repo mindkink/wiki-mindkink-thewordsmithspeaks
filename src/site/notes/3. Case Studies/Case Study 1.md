@@ -27,7 +27,7 @@ Please note that I am aware that the formatting / presentation of this document 
 
 **Trauma from Male Parent**
 
-- This is actually so much to unpack. My Father was never physically abusive towards me but he had an immense amount of anxiety that he spread to everyone in his proximity. He was indirectly emotionally abusive in this way and had ton of OCD behaviors from the anxiety.
+- This is actually so much to unpack. My Father was never physically abusive towards me but he had an immense amount of anxiety that he spread to everyone in his proximity. He was indirectly emotionally abusive in this way and had ton of OCD behaviours from the anxiety.
 
 The abridged version to provide you a a snapshot:
 
@@ -37,7 +37,7 @@ The abridged version to provide you a a snapshot:
 
 - When my Father was giving me the birds-and-the-bees talk he got frustrated when I started crying. (Mind you I was 12.) His reaction to my tears was to whip his dick out and start yelling at me about how it is normal. I've honestly blocked out most of it, but I've never forgot the distress from that moment.
 
-- This tangentially relates to the gender because as a child I remember wanting to be NOTHING like him. I had no positive male role model in my life. If anything my Mother was the supportive loving figure in my life and I modeled myself after her.
+- This tangentially relates to the gender because as a child I remember wanting to be NOTHING like him. I had no positive male role model in my life. If anything my Mother was the supportive loving figure in my life and I modelled myself after her.
   
 **Diagnoses - Pre-existing prior to treatment**
 
@@ -447,10 +447,11 @@ Notes: I don't know if I resonate with the symbol. Scimitar felt like it was mo
 
 **How the session made me feel:**
 
-- I want to say deeply curious about the color experience and these brand new sensations that were surfacing in me.  
-      
+- I want to say deeply curious about the colour experience and these brand new sensations that were surfacing in me.  
+
 - Initially, I was really out of sorts that night and following day.  
-    I have been feeling significantly better since and *extremely* motivated on hypnotherapy and other life endeavors right now. 💛
+
+I have been feeling significantly better since and *extremely* motivated on hypnotherapy and other life endeavours right now. 💛
 
 **What was the single most impactful moment from todays session?**
 
@@ -481,8 +482,6 @@ This is raw what I wrote immediately after session:
 > I want to be clear.
 > I will do anything to free myself from the trauma. I am literally willing to be brainwashed and remade in that effort.
 
-  
-
 > A negative self-perception of self. Skews the way you see the world.
 > You showed me that firsthand.
 > I want to be able to FEEL again; that the actions I do *are* important and are positive.
@@ -494,9 +493,7 @@ This is raw what I wrote immediately after session:
 > I am very caught up in how I am coming off to other perceptions  
 > That it distorts how I would naturally act  
 
-  
-
-> ^^^ I think this is also why voice is a little bit stressful sometimes during phone calls you. It's hard to juggle modifying my voice and holding a genuine conversation.  
+> ^^^ I think this is also why voice is a little bit stressful sometimes during phone calls you. It's hard to juggle modifying my voice and holding a genuine conversation.
 > I feel like when I am relaxed in trance, I can't control my voice as well, and it makes me self-conscious, in a way that interferes with letting go of control completely during hypnosis.  
 > 
 > I *in part* want to sound feminine because I want to be seen as a women by you. I understand I am not a cis women and that's okay. I guess I want to have perceived value by you still, and I am attributing that in part to gender for some reason.
@@ -516,14 +513,11 @@ I have a preconceived notion that if I am actively thinking that it will disrupt
 
 **What am I consciously incorporating:**
 
-- Intention:  
-    I'm asking myself what is the Intention of every action as much as possible. There's still more I can apply this too but I am proud of incorporating it so far. It's really helpful viewing actions from this lens.
+- Intention:  I'm asking myself what is the Intention of every action as much as possible. There's still more I can apply this too but I am proud of incorporating it so far. It's really helpful viewing actions from this lens.
 
-- Apologies:  
-    I will not apologize, unless it's actually warranted. It's an impulse and very reflexive - and it's a feminine thing to do. However, it's not healthy or appropriate. It's an excuse and a deflection. I felt guilty is the cause, and the apology is the symptom.
+- Apologies:  I will not apologize, unless it's actually warranted. It's an impulse and very reflexive - and it's a feminine thing to do. However, it's not healthy or appropriate. It's an excuse and a deflection. I felt guilty is the cause, and the apology is the symptom.
 
-- Honesty:  
-    I need to be more honest about how I am feeling. Diminish, "Kind of/Maybe/Sort of/I guess". It's not being honest. It's plausible deniability. Sometimes you genuinely don't know but often times I am doing this behavior because it *feels* superficially safer.
+- Honesty:  I need to be more honest about how I am feeling. Diminish, "Kind of/Maybe/Sort of/I guess". It's not being honest. It's plausible deniability. Sometimes you genuinely don't know but often times I am doing this behavior because it *feels* superficially safer.
 
 ### Post Session 4
 
@@ -709,7 +703,7 @@ the breathing thing was effective!!!! i FELT that. _wish i spent more time losi
 **  
 Breakdown:** I remember the initial induction with the breathing exercise and accompanied mantra. I was surprised to actually *FEEL* the control being relinquished to you. I didn't know that feeling was possible. It's like opening a door to a new world of possibilities.
 
-**Storyline/Visuals**
+**Storyline / Visuals**
 
 > THE INITIAL DOOR INTO MIND WAS SERIOUSLY THE MOST BEAUTIFUL THING
 > when i said it was "stunning". i was actually floored.
@@ -841,7 +835,6 @@ not ideal. but feels like i will be okay continue liking this
 It's actually weird looking back at text messages that weren't even *that* long ago and feeling like it was an entirely different person
 
 Gifts From Unconscious. Revelations.
-
 
 **Pursuit Knowledge / Truth / Intelligence**
 
@@ -1033,7 +1026,7 @@ I watched the symbol unfold and change. Meld into each other and grow.
 
 ## Specific Observations - Topical
 
-All content is shared at the explicit request of the Client. These are the general thoughts of the Client as written and as discussed above, shared with their explicit and written encouragement and informed consent.
+All content is shared at the explicit request of the Client. These are the general thoughts of the Client as written and as discussed above, shared here with their explicit and written encouragement and written informed consent.
 
 ### Gender and Transitioning
 
@@ -1566,4 +1559,3 @@ You can just innately and intuitively do it. Sometimes just with a little bit of
 *I became a person. I became an actual person by becoming infinitely more self aware* 
 *I discovered so much about myself* 
 *I entered the arena of the world"*
-
