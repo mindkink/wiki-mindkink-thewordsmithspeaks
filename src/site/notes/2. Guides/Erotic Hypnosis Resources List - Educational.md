@@ -49,17 +49,19 @@ European
 
 #### Educational Content - Websites
 
-- https://thewordsmithspeaks.com/ - The website of the person who assembled this list. Podcast, Resources Folder, Community, more things than I can list. Go there, enjoy it.
+- https://thewordsmithspeaks.com/ - Podcast, Resources Folder, Community, more things than I can list. Go there, enjoy it.
 - https://www.learnhypnokink.com/
 - https://voicekink.com/ - Excellent. Update 5th May 2024 – website seems to be dead, contact me directly if you would like directions to where a copy of the content can be obtained.
 - https://www.patreon.com/twohypchicks - Two Hyp Chicks. A LOT of content.
 - https://sleepingirl.carrd.co/ – Same as above link but includes all their content.
+- 
 - https://shop.pandastory.love/l/101
 - https://www.pandastory.love/101
+- 
 - https://hypnokink.de/schnellhypnose-videos/ - GERMAN – A series of excellent videos.
 - http://powerinpractice.com/ - Some Podcast Episodes deal with Mindfucks and touch on EH.
 - https://renegadehypnotist.com - Expensive, but his Essentials Program is absolutely worth it.
-- [https://binauralhistolog.com/newbie/index.html](https://binauralhistolog.com/newbie/index.html) - A Good Beginners Guide. **Recommended.**
+- https://binauralhistolog.com/newbie/index.html - A Good Beginners Guide. **Recommended.**
 - https://www.cosmic-pancakes.com/
 - https://www.cosmic-pancakes.com/blog/undine-de-riviere
 - https://www.cosmic-pancakes.com/blog/compliance-belief
@@ -73,6 +75,7 @@ European
 
 - https://thehypnocollective.com/
 
+- https://yourinductionsucks.fyi/ - Excellent!
 
 #### HypnoKink Educational Content - Educational Videos
 
@@ -119,3 +122,7 @@ Stupidly, the server Owners have disabled the ability to generate Invitation Lin
 These are not EROTIC hypnosis applications, they are NORMAL apps for learning hypnosis.
 https://apps.apple.com/us/app/nuvi-by-mike-mandel-hypnosis/id1290866443 - Nuvi on iOS
 https://play.google.com/store/apps/details?id=com.mikemandelhypnosis.nuvi&hl – Nuvi on Android
+
+#### Locations of Royalty Free Music
+
+https://www.fesliyanstudios.com/
