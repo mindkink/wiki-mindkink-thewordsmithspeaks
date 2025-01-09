@@ -21,9 +21,9 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Additional Podcast Material
 
-[[1. Podcast Notes and Descriptions/Podcast Episode Show Notes\|1. Podcast Notes and Descriptions/Podcast Episode Show Notes]] Where you will find all of the notes and links mentioned in podcast episodes.
+[Podcast Episode Show Notes](1.%20Podcast%20Notes%20and%20Descriptions/Podcast%20Episode%20Show%20Notes.md) Where you will find all of the notes and links mentioned in podcast episodes.
 
-[[1. Podcast Notes and Descriptions/Podcast Episode Descriptions\|1. Podcast Notes and Descriptions/Podcast Episode Descriptions]] - Where you will find all the descriptions of podcast episodes and the topics they cover in detail.
+[Podcast Episode Descriptions](1.%20Podcast%20Notes%20and%20Descriptions/Podcast%20Episode%20Descriptions.md) - Where you will find all the descriptions of podcast episodes and the topics they cover in detail.
 
 #### Major Guides
 

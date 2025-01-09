@@ -282,6 +282,16 @@ Optional Extras
 - Watercolour Crayons for Facepainting
 - Marker pens for writing nice things on people
 
+Additionally, the following was suggested by a listener and is highly recommended:
+
+"One of the best things you can do to make people feel happy and special is to make them something to wear that matches what they are wearing, or somehow reflects them   
+
+I'm a bit fan of making strangers preposterous custom balloon hats.  The best book on this is 'The Inflatable Crown'.  If you learn some common bases and elements you can make funky hats up as you go along.  I've gone out 'fully loaded' with several hundred balloons at music festivals and love seeing my creations worn by party-goers many hours later.  
+
+It's impossible to be sad in a balloon hat.  Balloon flowers, jewellery and wearables are all possible.  There is also a subset of lewd models that would be good at any munch, cuffs, flowers and a particularly surprising seal.  Apparently balloon bondage is actually a thing! Haven't actually done that myself, but easily could. 
+
+The only balloons to use for this are Qualatex.  I'd recommend starting with the 'Carnival selection'.  A big handful of those in a ziplock bag, some basic twists and you're the life and soul of the party.   Same warning as for the glow-sticks. Not for small kids who bite them them inhale fragments of balloon. Not good."
+
 ---
 
 ## 019 - You Must Allow Them to Give Back

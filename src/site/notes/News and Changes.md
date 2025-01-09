@@ -3,6 +3,10 @@
 ---
 
 
+2025-01-10
+
+Added in all old contract examples with effusive warning labels. God, I've changed and grown a lot since then. 
+
 2024-12-25
 
 Uploaded the word accurate copies of the scripts to all Soundgasm NSFW audios. Massive thanks to A for proofing these.

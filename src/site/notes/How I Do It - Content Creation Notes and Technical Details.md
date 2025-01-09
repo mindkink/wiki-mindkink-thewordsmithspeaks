@@ -15,8 +15,8 @@ For any questions please email thewordsmithspeaks@pm.me
 
 #### All Software and Services Used
 
-- Passwords are handled through Bitwarden
-- Two Factor Authentication through Authy
+- Passwords are handled through Bitwarden. I will likely move to KeepassXC and a Sync Plugin in the new year for additional security
+- Two Factor Authentication through Authy and Yubikey
 - Email is handled through Protonmail
 - Scheduling is handled through Proton Calendar
 - Documents are written in CommonMark and stored in plain text files in an Obsidian Notes Vault located in the Resources Folder
@@ -24,21 +24,21 @@ For any questions please email thewordsmithspeaks@pm.me
 - Buttondown for the Newsletter, switching to a simple email list in ProtonMail is a future plan to improve privacy protections
 - Website Domains are held in Njalla
 
-Website - LocalWP app using the free GeneratePress Theme, then using the free Simply Static Plugin to export a static version to Github which is then rendered by Netlify. Provides a simple GUI to design, plus free from end to end and all the benefits of a static website including free hosting. 
+Main Website - LocalWP app using the free GeneratePress Theme, then using the free Simply Static Plugin to export a static version to Github which is then rendered by Netlify. Provides a simple GUI to design, plus free from end to end and all the benefits of a static website including free hosting. 
 
-Resources Folder - Using the secure Filen service as a base, then a Google Drive Link for redundancy and user preference. A monthly file snapshot is shared using qBittorrent and the opentrackr.org tracker.
+Resources Folder - Using the secure Filen service as a base, then a Google Drive Link for redundancy and user preference. A monthly file snapshot is shared using qBittorrent and the opentrackr.org tracker under the "MindKInk" and "TheWordSmithSpeaks" search terms for easy accessibility and indexing.
 
 Erotic and Safe-For-Work Audios - Recorded on my phones built-in microphone (usually), then transferred by Filen to desktop computer, edited in OcenAudio and exported as Lossless FLAC for archival purposes and 128Kpbs AAC for use using FFMPEG Batch Encoder (green icon with a white line in it). [https://soundgasm.net/](https://soundgasm.net/)to stream audio files directly to people through the browser.
 
 Podcast - Used to be on Anchor before they were bought out by Spotify, now it's on there and shared via RSS to other providers.
 
-Digital Garden - Hosted in an Obsidian Notes Vault located in the Resources Folder, then shared for free using the https://github.com/oleeskild/Obsidian-Digital-Garden plugin, and hosted in Github and rendered on Vercel. Free end to end.
+This Wiki / Knowledgebase (What you are reading now) - Hosted in an Obsidian Notes Vault located in the Resources Folder, then shared for free using the https://github.com/oleeskild/Obsidian-Digital-Garden plugin, and hosted in Github and rendered on Netlify. Free end to end. Future versions will likely be based upon mkdocs or done using the Starlight Documentation Theme on the Astro NPM framework, and retain the same structure for accessibility.
 
 There are lots of other ways to do it. If you are interested, I have conducted a massive in-depth study of the hypnokink content distribution ecosystem. Message me on Signal and I'll share my conclusions with you
 
 #### Commitment to Data Longevity
 
-All content is distributed in ONLY open formats, with delivery methods having multiple failovers and redundancies.
+All content is distributed in only open formats, with delivery methods having multiple failovers and redundancies.
 
 There is the direct download link on Filen, and monthly torrent snapshots as well as a Google Drive Backup Link.
 
@@ -78,7 +78,7 @@ All audio is encoded as either Lossless FLAC, or lossy OPUS using FFmpeg Batch A
 
 This is a simplified GUI frontend to the ffmpeg encoding framework.
 
-The exact parameters used for podcast episodes are:
+The exact parameters used for lossy podcast episodes are:
 
 -vn -c:a libopus -ac 1 -b:a 32K
 
