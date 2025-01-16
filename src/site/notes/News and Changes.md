@@ -5,7 +5,7 @@
 
 2025-01-10
 
-Added in all old contract examples with effusive warning labels. God, I've changed and grown a lot since then. 
+Added in all old contract examples with effusive warning labels.
 
 2024-12-25
 

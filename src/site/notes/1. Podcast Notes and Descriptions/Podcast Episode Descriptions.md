@@ -17,7 +17,7 @@ https://thewordsmithspeaks.com
 
 **Resources Folder Link**
 
-https://drive.filen.io/f/86b5a87d-ba41-467b-9f88-e44eec89d40b#geNlOLLsql8jCJBB5JPdLKxhlpHGJzc8
+https://app.filen.io/#/f/f6969ff2-c2d2-47dd-b5c8-56ff9b66d6a5%23mD4JouojXwODLhhGTVCisVJqxL6aOpQR
 
 
 Find the Episode Notes at the Website (https://thewordsmithspeaks.com) in the Resources Folder. Additional FREE Scripts, Classes, Templates, Printables, PDF's and full podcast episodes as audio downloads. Definitely check it out.

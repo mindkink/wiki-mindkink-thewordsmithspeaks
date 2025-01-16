@@ -525,9 +525,9 @@ https://podcast.powerinpractice.com/
 ### Tests for EVERYONE
 
 The Five Love Languages
-https://www. 5 lovelanguages.com/
+https://www.5lovelanguages.com/
 The 16 Personalities Test MBTI
-https://www. 16 personalities.com/
+https://www.16personalities.com/
 The Relationships Section of the extended report is particularly good.
 The Big Five
 https://bigfive-test.com/

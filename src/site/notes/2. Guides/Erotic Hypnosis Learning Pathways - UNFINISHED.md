@@ -77,7 +77,7 @@ I have a complete and **free** (no strings attached) audio program on using Erot
 
 * * *
 
-I've taught over a dozen in-person classes, published over 65,000+ words, and written two books. The following process is the one I would follow if I were a complete beginner, starting from scratch who wanted to learn erotic hypnosis simply, easily and with a minimum of fuss. If you want personalised tuition, [email me here](https://mindkink.net/contact/) and set up a conversation.
+I've taught over a dozen in-person classes, published over 65,000+ words, and written two books. The following process is the one I would follow if I were a complete beginner, starting from scratch who wanted to learn erotic hypnosis simply, easily and with a minimum of fuss. If you want personalised tuition, [email me here](mailto:thewordsmithspeaks@pm.me) and set up a conversation.
 
 First - **take your learning seriously**. Find others who also wish to seriously learn, disregard and ignore those who are not as committed as you. These skills are easy to learn. The format is the same as non-erotic hypnosis, just without the sexual content or intent. Form groups and small, local communities and practice and discuss frequently amongst each other. Setting up a group chat in [Signal](https://signal.org/download/) (_preferred_) or [WhatsApp](https://www.whatsapp.com/) is an excellent idea.
 

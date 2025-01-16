@@ -38,6 +38,7 @@ American
 - [https://hearthypno.com/](https://hearthypno.com/)
 - [https://beguiledcon.com/](https://beguiledcon.com/)
 - [https://charmedhypno.org/](https://charmedhypno.org/)
+- [https://hearthypno.com/index.php/about-us/](https://hearthypno.com/index.php/about-us/)
 - [http://www.neehu.org/](http://www.neehu.org/)
 - [https://deepminddarkwood.com/](https://deepminddarkwood.com/)
 - [https://www.hypnocon.com/about/](https://www.hypnocon.com/about/) - An Event that is Men For Men (Gay, I think?)

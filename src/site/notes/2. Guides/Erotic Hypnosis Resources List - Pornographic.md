@@ -101,7 +101,9 @@ Updates, dead links or additions to this document should be emailed to thewordsm
 - https://store.hypnofantasy.com/
 - https://jackdominates.com/files/
 - https://lilithunleashed.net/
-- There are several locations in the “Content Creators” Section
+
+There are several locations in the “Content Creators” Section
+
 - https://sleepingirl.gumroad.com/ – use code iamthesenate on their Gumroad account for a discount.
 - http://esuccubus.com/
 - https://soundgasm.net/u/ChaosDoll/
@@ -156,5 +158,5 @@ https://callidus-mc.com/
 - https://mistresscalia.com/caliaquest/
 - https://github.com/PetitTournesol/Edgeware – Can damage your computer. Use with caution and included here only for completeness.
 - https://www.reddit.com/r/EdgingWare/ – Related to the above link. Possibly damages your computer.
-- https://github.com/araten10/EdgewarePlusPlus– Related to the above link. Possibly damages your computer.
+- https://github.com/araten10/EdgewarePlusPlus – Related to the above link. Possibly damages your computer.
 - https://github.com/TheoWinters/EdgewarePlusPlus – Related to the above link. Possibly damages your computer.
