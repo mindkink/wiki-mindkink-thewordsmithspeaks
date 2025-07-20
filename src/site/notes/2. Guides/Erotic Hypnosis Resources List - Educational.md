@@ -55,10 +55,12 @@ European
 - https://voicekink.com/ - Excellent. Update 5th May 2024 – website seems to be dead, contact me directly if you would like directions to where a copy of the content can be obtained.
 - https://www.patreon.com/twohypchicks - Two Hyp Chicks. A LOT of content.
 - https://sleepingirl.carrd.co/ – Same as above link but includes all their content.
-- 
+
+- https://ko-fi.com/belialteaches
+
 - https://shop.pandastory.love/l/101
 - https://www.pandastory.love/101
-- 
+
 - https://hypnokink.de/schnellhypnose-videos/ - GERMAN – A series of excellent videos.
 - http://powerinpractice.com/ - Some Podcast Episodes deal with Mindfucks and touch on EH.
 - https://renegadehypnotist.com - Expensive, but his Essentials Program is absolutely worth it.

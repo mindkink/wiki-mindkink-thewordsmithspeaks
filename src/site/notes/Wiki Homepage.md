@@ -21,13 +21,13 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Additional Podcast Material
 
-[Podcast Episode Show Notes](1.%20Podcast%20Notes%20and%20Descriptions/Podcast%20Episode%20Show%20Notes.md) Where you will find all of the notes and links mentioned in podcast episodes.
+[Podcast Episode Show Notes](1.%20Podcast%20Episode%20Notes%20and%20Descriptions/Podcast%20Episode%20Show%20Notes.md) Where you will find all of the notes and links mentioned in podcast episodes.
 
-[Podcast Episode Descriptions](1.%20Podcast%20Notes%20and%20Descriptions/Podcast%20Episode%20Descriptions.md) - Where you will find all the descriptions of podcast episodes and the topics they cover in detail.
+[Podcast Episode Descriptions](1.%20Podcast%20Episode%20Notes%20and%20Descriptions/Podcast%20Episode%20Descriptions.md) - Where you will find all the descriptions of podcast episodes and the topics they cover in detail.
 
 #### Major Guides
 
-[[2. Guides/Erotic Hypnosis Learning Pathways - UNFINISHED\|2. Guides/Erotic Hypnosis Learning Pathways - UNFINISHED]] (UNFINISHED) - A good place to start.
+[[10. Unfinished/Erotic Hypnosis Learning Pathways - UNFINISHED\|10. Unfinished/Erotic Hypnosis Learning Pathways - UNFINISHED]] (UNFINISHED) - A good place to start.
 
 [[2. Guides/Erotic Hypnosis Resources List - Educational\|Erotic Hypnosis Resources List - Educational]] - Contains an exhaustive and constantly updated list of Erotic Hypnosis Conventions, Websites, Educational Videos, Podcasts, media mentions of Erotic Hypnosis, Discord Servers and Hypnosis Software. Focus on Education.
 
@@ -44,33 +44,33 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Techniques
 
-- [[5. Techniques/Guest Post - How Would I train a Slavegirl if I was a Master\|5. Techniques/Guest Post - How Would I train a Slavegirl if I was a Master]]
+- [[5. Articles/Guest Post - How Would I train a Slavegirl if I was a Master\|5. Articles/Guest Post - How Would I train a Slavegirl if I was a Master]]
 
-- [[5. Techniques/An Incomplete Guide to Self Care for Submissives\|5. Techniques/An Incomplete Guide to Self Care for Submissives]]
+- [[5. Articles/An Incomplete Guide to Self Care for Submissives\|5. Articles/An Incomplete Guide to Self Care for Submissives]]
 
-- [[5. Techniques/Rough Body Play\|5. Techniques/Rough Body Play]]
-- [[5. Techniques/The Standard Submissive Training Checklist\|5. Techniques/The Standard Submissive Training Checklist]]
-- [[5. Techniques/Willpower and Habituation\|5. Techniques/Willpower and Habituation]]
-- [[5. Techniques/Why Hypnosis and Sex Work So Well Together\|5. Techniques/Why Hypnosis and Sex Work So Well Together]]
-- [[5. Techniques/The Training Process\|5. Techniques/The Training Process]]
+- [[5. Articles/Rough Body Play\|5. Articles/Rough Body Play]]
+- [[5. Articles/The Standard Submissive Training Checklist\|5. Articles/The Standard Submissive Training Checklist]]
+- [[5. Articles/Willpower and Habituation\|5. Articles/Willpower and Habituation]]
+- [[5. Articles/Why Hypnosis and Sex Work So Well Together\|5. Articles/Why Hypnosis and Sex Work So Well Together]]
+- [[5. Articles/The Training Process\|5. Articles/The Training Process]]
 
-- [[5. Techniques/The 3 Minute Game - Simplified\|5. Techniques/The 3 Minute Game - Simplified]]
-- [[5. Techniques/How to Have A Scene\|5. Techniques/How to Have A Scene]]
-- [[5. Techniques/The Eight Questions for Better Sex\|5. Techniques/The Eight Questions for Better Sex]]
-- [[5. Techniques/The After Action Review (AAR)\|5. Techniques/The After Action Review (AAR)]]
-- [[5. Techniques/The Five Minute Aftercare Routine\|5. Techniques/The Five Minute Aftercare Routine]]
-- [[5. Techniques/Building Your Own Sex Kit\|5. Techniques/Building Your Own Sex Kit]]
-- [[5. Techniques/Building Better Triggers - In Detail\|5. Techniques/Building Better Triggers - In Detail]]
+- [[5. Articles/The 3 Minute Game - Simplified\|5. Articles/The 3 Minute Game - Simplified]]
+- [[5. Articles/How to Have A Scene\|5. Articles/How to Have A Scene]]
+- [[5. Articles/The Eight Questions for Better Sex\|5. Articles/The Eight Questions for Better Sex]]
+- [[5. Articles/The After Action Review (AAR)\|5. Articles/The After Action Review (AAR)]]
+- [[5. Articles/The Five Minute Aftercare Routine\|5. Articles/The Five Minute Aftercare Routine]]
+- [[5. Articles/Building Your Own Sex Kit\|5. Articles/Building Your Own Sex Kit]]
+- [[5. Articles/Building Better Triggers - In Detail\|5. Articles/Building Better Triggers - In Detail]]
 
-- [[5. Techniques/Submissive Training Assessment Tools\|5. Techniques/Submissive Training Assessment Tools]]
-- [[5. Techniques/Rough Guidelines on Setting Rules\|5. Techniques/Rough Guidelines on Setting Rules]]
-- [[5. Techniques/How to Delegate\|5. Techniques/How to Delegate]]
-- [[5. Techniques/Combining Hypnosis and Chemicals\|5. Techniques/Combining Hypnosis and Chemicals]]
-- [[5. Techniques/Some Notes on Injecting Drugs and Brainwashing Pills\|5. Techniques/Some Notes on Injecting Drugs and Brainwashing Pills]]
+- [[5. Articles/Submissive Training Assessment Tools\|5. Articles/Submissive Training Assessment Tools]]
+- [[5. Articles/Rough Guidelines on Setting Rules\|5. Articles/Rough Guidelines on Setting Rules]]
+- [[5. Articles/How to Delegate\|5. Articles/How to Delegate]]
+- [[5. Articles/Combining Hypnosis and Chemicals\|5. Articles/Combining Hypnosis and Chemicals]]
+- [[5. Articles/Some Notes on Injecting Drugs and Brainwashing Pills\|5. Articles/Some Notes on Injecting Drugs and Brainwashing Pills]]
 
 #### Other Lists and Miscellaneous
 
-- [[8. Miscellaneous/Content Creators I Endorse\|8. Miscellaneous/Content Creators I Endorse]]
+- [[8. Miscellaneous/List of Educators in Rope and Kink\|8. Miscellaneous/List of Educators in Rope and Kink]]
 - [[8. Miscellaneous/Sources of Rope and Kink Education\|8. Miscellaneous/Sources of Rope and Kink Education]]
 - [[8. Miscellaneous/Corsetry Resources\|8. Miscellaneous/Corsetry Resources]]
 - [[8. Miscellaneous/Sex Toy Recommendations and Suppliers\|8. Miscellaneous/Sex Toy Recommendations and Suppliers]]
@@ -79,7 +79,3 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 [[8. Miscellaneous/Transcript of the Australian Broadcasting Company Interview\|8. Miscellaneous/Transcript of the Australian Broadcasting Company Interview]]
 
 Note to self: Links to pages on this page must be Wiki-style links, outgoing must be Markdown-style. Other pages can be Markdown-style
-
-#### Credits
-
-Thank you to A for proofing the completed copies of the scripts for the old brainwashing audios on Soundgasm.
