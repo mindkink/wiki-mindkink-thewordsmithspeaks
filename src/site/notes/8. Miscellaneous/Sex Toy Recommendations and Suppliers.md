@@ -20,7 +20,7 @@
 Most of these will quite happily ship to anywhere in Australia - just get in touch!
 
 **Sex Furniture** - Hunters Lodge Furniture  
-0407 650 660 - [hunterslodgefurniture@gmail.com](mailto:hunterslodgefurniture@gmail.com)
+0407 650 660 - [[mailto:hunterslodgefurniture@gmail.com\|hunterslodgefurniture@gmail.com]]
 
 **Sex Furniture** - "Thats a Paddlen"  
 0416 375 602 - [facebook.com/fetgear.brisbane](https://facebook.com/fetgear.brisbane)

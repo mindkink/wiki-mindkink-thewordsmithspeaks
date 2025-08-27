@@ -1,15 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/how-i-do-it-content-creation-notes-and-technical-details/","pinned":true,"updated":"2025-01-20T09:08:22.170+08:00"}
+{"dg-publish":true,"permalink":"/how-i-do-it-content-creation-notes-and-technical-details/","pinned":true,"updated":"2025-08-28T00:08:10.020+08:00"}
 ---
 
 
 ### Resources Notes
 
-This project uses open standards, with simplicity, ease of accessibility, sensible defaults and privacy emphasised.
-
-All software recommended will be the most secure option practical, with simpler alternatives provided. 
-
-Older content is in the process of being updated and brought into conformity with these standards.
+This project uses open standards, with simplicity, ease of accessibility, sensible defaults and privacy emphasised. All software recommended will be the most secure option practical, with simpler alternatives provided. Older content is in the process of being updated and brought into conformity with these standards.
 
 For any questions please email thewordsmithspeaks@pm.me
 
@@ -24,7 +20,7 @@ For any questions please email thewordsmithspeaks@pm.me
 - Buttondown for the Newsletter, switching to a simple email list in ProtonMail is a future plan to improve privacy protections
 - Website Domains are held in Njalla
 
-Main Website - LocalWP app using the free GeneratePress Theme, then using the free Simply Static Plugin to export a static version to Github which is then rendered by Netlify. Provides a simple GUI to design, plus free from end to end and all the benefits of a static website including free hosting. 
+Main Website - LocalWP app using the free GeneratePress Theme, then using the free Simply Static Plugin to export a static version to Github which is then rendered by Netlify. Provides a simple GUI to design, plus free from end-to-end and all the benefits of a static website including free hosting. 
 
 https://localwp.com/ then https://generatepress.com/ then https://simplystatic.com/ then https://github.com/ then https://www.netlify.com/
 
@@ -38,7 +34,7 @@ https://www.ocenaudio.com/ then https://ffmpeg-batch.sourceforge.io/
 
 Podcast - Used to be on Anchor before they were bought out by Spotify, now it's on there and shared via RSS to other providers.
 
-This Wiki / Knowledgebase (What you are reading now) - Hosted in an Obsidian Notes Vault located in the Resources Folder, then shared for free using the https://github.com/oleeskild/Obsidian-Digital-Garden plugin, and hosted in Github and rendered on Netlify. Free end to end. Future versions will likely be based upon mkdocs or done using the Starlight Documentation Theme on the Astro NPM framework, and retain the same structure for accessibility.
+This Wiki / Knowledgebase (What you are reading now) - Hosted in an Obsidian Notes Vault located in the Resources Folder, then shared for free using the https://github.com/oleeskild/Obsidian-Digital-Garden plugin, and hosted in Github and rendered on Netlify. Free end to end.
 
 There are lots of other ways to do it. If you are interested, I have conducted a massive in-depth study of the hypnokink content distribution ecosystem. Message me on Signal and I'll share my conclusions with you
 

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/news-and-changes/","pinned":true,"updated":"2025-07-20T12:43:25.098+08:00"}
+{"dg-publish":true,"permalink":"/news-and-changes/","pinned":true,"updated":"2025-08-28T00:11:25.676+08:00"}
 ---
 
+
+2025-08-28
+
+FINALLY got around to updating this in preparation for a major redesign and content upload.
 
 2025-07-20
 
