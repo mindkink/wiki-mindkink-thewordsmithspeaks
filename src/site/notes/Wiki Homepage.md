@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/wiki-homepage/","pinned":true,"tags":["gardenEntry"],"updated":"2025-08-28T00:15:50.921+08:00"}
+{"dg-publish":true,"permalink":"/wiki-homepage/","pinned":true,"tags":["gardenEntry"],"updated":"2025-08-28T00:18:39.884+08:00"}
 ---
 
-
-[News and Changes](News%20and%20Changes.md)
-[How I Do It - Content Creation Notes and Technical Details](How%20I%20Do%20It%20-%20Content%20Creation%20Notes%20and%20Technical%20Details.md)
 
 Contact Me:
 
