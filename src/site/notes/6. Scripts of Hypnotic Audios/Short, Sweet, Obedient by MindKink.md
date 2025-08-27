@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-scripts-of-hypnotic-audios/short-sweet-obedient-by-mind-kink/"}
+{"dg-publish":true,"permalink":"/6-scripts-of-hypnotic-audios/short-sweet-obedient-by-mind-kink/","updated":"2024-12-30T11:27:18.291+08:00"}
 ---
 
 

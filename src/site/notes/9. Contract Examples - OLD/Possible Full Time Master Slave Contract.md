@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-contract-examples-old/possible-full-time-master-slave-contract/"}
+{"dg-publish":true,"permalink":"/9-contract-examples-old/possible-full-time-master-slave-contract/","updated":"2025-01-14T07:36:12.617+08:00"}
 ---
 
 

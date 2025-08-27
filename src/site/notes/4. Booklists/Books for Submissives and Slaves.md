@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-booklists/books-for-submissives-and-slaves/"}
+{"dg-publish":true,"permalink":"/4-booklists/books-for-submissives-and-slaves/","updated":"2024-12-20T06:16:37.292+08:00"}
 ---
 
 

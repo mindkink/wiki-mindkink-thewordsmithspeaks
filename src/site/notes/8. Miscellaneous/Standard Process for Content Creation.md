@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-miscellaneous/standard-process-for-content-creation/"}
+{"dg-publish":true,"permalink":"/8-miscellaneous/standard-process-for-content-creation/","updated":"2025-01-20T09:02:43.817+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/how-to-have-a-scene/"}
+{"dg-publish":true,"permalink":"/5-articles/how-to-have-a-scene/","updated":"2024-12-20T06:16:35.885+08:00"}
 ---
 
 

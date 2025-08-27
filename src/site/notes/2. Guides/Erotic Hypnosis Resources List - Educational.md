@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-guides/erotic-hypnosis-resources-list-educational/"}
+{"dg-publish":true,"permalink":"/2-guides/erotic-hypnosis-resources-list-educational/","updated":"2025-05-26T19:43:50.555+08:00"}
 ---
 
 

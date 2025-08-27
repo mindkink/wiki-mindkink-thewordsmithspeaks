@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-contract-examples-old/lt-morrison-a-slave-contract/"}
+{"dg-publish":true,"permalink":"/9-contract-examples-old/lt-morrison-a-slave-contract/","updated":"2025-01-10T05:07:32.406+08:00"}
 ---
 
 

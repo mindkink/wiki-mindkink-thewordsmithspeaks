@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-scripts-of-hypnotic-audios/my-good-girl-by-mind-kink/"}
+{"dg-publish":true,"permalink":"/6-scripts-of-hypnotic-audios/my-good-girl-by-mind-kink/","updated":"2024-12-30T11:27:23.870+08:00"}
 ---
 
 

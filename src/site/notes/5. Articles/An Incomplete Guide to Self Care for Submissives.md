@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/an-incomplete-guide-to-self-care-for-submissives/"}
+{"dg-publish":true,"permalink":"/5-articles/an-incomplete-guide-to-self-care-for-submissives/","updated":"2024-12-20T06:16:35.682+08:00"}
 ---
 
 

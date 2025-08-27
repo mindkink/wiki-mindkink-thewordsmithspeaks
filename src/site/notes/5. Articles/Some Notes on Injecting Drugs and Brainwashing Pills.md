@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/some-notes-on-injecting-drugs-and-brainwashing-pills/"}
+{"dg-publish":true,"permalink":"/5-articles/some-notes-on-injecting-drugs-and-brainwashing-pills/","updated":"2024-12-20T06:16:35.995+08:00"}
 ---
 
 

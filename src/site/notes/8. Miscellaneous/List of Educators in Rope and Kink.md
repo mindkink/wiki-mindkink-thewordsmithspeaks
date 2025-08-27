@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-miscellaneous/list-of-educators-in-rope-and-kink/"}
+{"dg-publish":true,"permalink":"/8-miscellaneous/list-of-educators-in-rope-and-kink/","updated":"2025-01-20T06:51:37.962+08:00"}
 ---
 
 

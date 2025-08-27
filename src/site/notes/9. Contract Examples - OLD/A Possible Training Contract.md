@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-contract-examples-old/a-possible-training-contract/"}
+{"dg-publish":true,"permalink":"/9-contract-examples-old/a-possible-training-contract/","updated":"2025-01-10T05:07:28.316+08:00"}
 ---
 
 

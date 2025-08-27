@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-scripts-of-hypnotic-audios/mind-melter-a-short-version-by-mind-kink/"}
+{"dg-publish":true,"permalink":"/6-scripts-of-hypnotic-audios/mind-melter-a-short-version-by-mind-kink/","updated":"2024-12-30T11:26:46.260+08:00"}
 ---
 
 

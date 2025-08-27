@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-contract-examples-old/submission-document/"}
+{"dg-publish":true,"permalink":"/9-contract-examples-old/submission-document/","updated":"2025-01-10T05:24:27.865+08:00"}
 ---
 
 

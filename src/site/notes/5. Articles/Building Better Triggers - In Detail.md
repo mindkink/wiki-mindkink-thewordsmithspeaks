@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/building-better-triggers-in-detail/"}
+{"dg-publish":true,"permalink":"/5-articles/building-better-triggers-in-detail/","updated":"2024-12-20T06:16:35.713+08:00"}
 ---
 
 

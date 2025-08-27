@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-unfinished/0-project-the-modular-script-library-still-under-construction/distributing-your-content-to-your-partner/"}
+{"dg-publish":true,"permalink":"/10-unfinished/0-project-the-modular-script-library-still-under-construction/distributing-your-content-to-your-partner/","updated":"2025-01-20T12:01:45.304+08:00"}
 ---
 
 

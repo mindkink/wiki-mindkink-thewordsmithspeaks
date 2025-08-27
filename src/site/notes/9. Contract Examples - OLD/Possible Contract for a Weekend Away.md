@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-contract-examples-old/possible-contract-for-a-weekend-away/"}
+{"dg-publish":true,"permalink":"/9-contract-examples-old/possible-contract-for-a-weekend-away/","updated":"2025-01-10T05:07:17.848+08:00"}
 ---
 
 

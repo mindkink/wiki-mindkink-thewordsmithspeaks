@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-miscellaneous/corsetry-resources/"}
+{"dg-publish":true,"permalink":"/8-miscellaneous/corsetry-resources/","updated":"2024-12-20T06:16:36.382+08:00"}
 ---
 
 

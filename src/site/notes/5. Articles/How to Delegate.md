@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/how-to-delegate/"}
+{"dg-publish":true,"permalink":"/5-articles/how-to-delegate/","updated":"2024-12-20T06:16:35.784+08:00"}
 ---
 
 

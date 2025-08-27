@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/the-five-minute-aftercare-routine/"}
+{"dg-publish":true,"permalink":"/5-articles/the-five-minute-aftercare-routine/","updated":"2024-12-20T06:16:36.156+08:00"}
 ---
 
 

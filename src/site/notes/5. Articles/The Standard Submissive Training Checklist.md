@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/the-standard-submissive-training-checklist/"}
+{"dg-publish":true,"permalink":"/5-articles/the-standard-submissive-training-checklist/","updated":"2024-12-20T06:16:36.333+08:00"}
 ---
 
 

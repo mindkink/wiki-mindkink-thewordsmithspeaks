@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-unfinished/0-project-the-modular-script-library-still-under-construction/template-and-design-notes/"}
+{"dg-publish":true,"permalink":"/10-unfinished/0-project-the-modular-script-library-still-under-construction/template-and-design-notes/","updated":"2025-01-20T11:48:58.584+08:00"}
 ---
 
 

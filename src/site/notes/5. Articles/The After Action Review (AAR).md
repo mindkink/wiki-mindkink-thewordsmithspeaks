@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/the-after-action-review-aar/"}
+{"dg-publish":true,"permalink":"/5-articles/the-after-action-review-aar/","updated":"2024-12-20T06:16:36.116+08:00"}
 ---
 
 

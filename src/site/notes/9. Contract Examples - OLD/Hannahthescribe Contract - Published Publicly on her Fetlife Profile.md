@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-contract-examples-old/hannahthescribe-contract-published-publicly-on-her-fetlife-profile/"}
+{"dg-publish":true,"permalink":"/9-contract-examples-old/hannahthescribe-contract-published-publicly-on-her-fetlife-profile/","updated":"2025-01-14T07:37:19.868+08:00"}
 ---
 
 

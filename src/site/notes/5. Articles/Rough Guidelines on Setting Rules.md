@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/rough-guidelines-on-setting-rules/"}
+{"dg-publish":true,"permalink":"/5-articles/rough-guidelines-on-setting-rules/","updated":"2024-12-20T06:16:35.927+08:00"}
 ---
 
 

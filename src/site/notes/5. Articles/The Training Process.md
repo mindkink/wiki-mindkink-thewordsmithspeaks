@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/the-training-process/"}
+{"dg-publish":true,"permalink":"/5-articles/the-training-process/","updated":"2024-12-20T06:16:36.220+08:00"}
 ---
 
 

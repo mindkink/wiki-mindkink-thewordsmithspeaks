@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/submissive-training-assessment-tools/"}
+{"dg-publish":true,"permalink":"/5-articles/submissive-training-assessment-tools/","updated":"2024-12-20T06:16:36.027+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-unfinished/0-project-the-modular-script-library-still-under-construction/how-to-get-started/"}
+{"dg-publish":true,"permalink":"/10-unfinished/0-project-the-modular-script-library-still-under-construction/how-to-get-started/","updated":"2025-01-20T12:01:13.717+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-booklists/books-for-hypno-kink-and-general-hypnotists/"}
+{"dg-publish":true,"permalink":"/4-booklists/books-for-hypno-kink-and-general-hypnotists/","updated":"2024-12-20T06:16:37.193+08:00"}
 ---
 
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/wiki-homepage/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/wiki-homepage/","pinned":true,"tags":["gardenEntry"],"updated":"2025-07-20T12:21:58.198+08:00"}
 ---
 
 
-[[News and Changes\|News and Changes]]
-[[How I Do It - Content Creation Notes and Technical Details\|How I Do It - Content Creation Notes and Technical Details]]
+[News and Changes](News%20and%20Changes.md)
+[How I Do It - Content Creation Notes and Technical Details](How%20I%20Do%20It%20-%20Content%20Creation%20Notes%20and%20Technical%20Details.md)
 
 Contact Me:
 
@@ -27,55 +27,55 @@ If you find a factual error in these documents, I will pay you ten dollars and a
 
 #### Major Guides
 
-[[10. Unfinished/Erotic Hypnosis Learning Pathways - UNFINISHED\|10. Unfinished/Erotic Hypnosis Learning Pathways - UNFINISHED]] (UNFINISHED) - A good place to start.
+[Erotic Hypnosis Learning Pathways - UNFINISHED](10.%20Unfinished/Erotic%20Hypnosis%20Learning%20Pathways%20-%20UNFINISHED.md) (UNFINISHED) - A good place to start.
 
-[[2. Guides/Erotic Hypnosis Resources List - Educational\|Erotic Hypnosis Resources List - Educational]] - Contains an exhaustive and constantly updated list of Erotic Hypnosis Conventions, Websites, Educational Videos, Podcasts, media mentions of Erotic Hypnosis, Discord Servers and Hypnosis Software. Focus on Education.
+[Erotic Hypnosis Resources List - Educational](2.%20Guides/Erotic%20Hypnosis%20Resources%20List%20-%20Educational.md) - Contains an exhaustive and constantly updated list of Erotic Hypnosis Conventions, Websites, Educational Videos, Podcasts, media mentions of Erotic Hypnosis, Discord Servers and Hypnosis Software. Focus on Education.
 
-[[2. Guides/Erotic Hypnosis Resources List - Pornographic\|Erotic Hypnosis Resources List - Pornographic]] - Contains an exhaustive and constantly updated list of Erotic Hypnosis Conventions, Websites, EH Patreon Creators, Discord Servers, Erotic Content in Video, Auditory and Written Form, and a list of Erotic Hypnosis Video Games. Focus on NSFW content.
+[Erotic Hypnosis Resources List - Pornographic](2.%20Guides/Erotic%20Hypnosis%20Resources%20List%20-%20Pornographic.md) - Contains an exhaustive and constantly updated list of Erotic Hypnosis Conventions, Websites, EH Patreon Creators, Discord Servers, Erotic Content in Video, Auditory and Written Form, and a list of Erotic Hypnosis Video Games. Focus on NSFW content.
 
-[[2. Guides/Guide - How to use Hypnotic Audio Files\|Guide - How to use Hypnotic Audio Files]] - A simple guide on using Hypnotic Audio Files.
+[Guide - How to use Hypnotic Audio Files](2.%20Guides/Guide%20-%20How%20to%20use%20Hypnotic%20Audio%20Files.md) - A simple guide on using Hypnotic Audio Files.
 
 #### Booklists
 
-- [[4. Booklists/Books for HypnoKink and General Hypnotists\|4. Booklists/Books for HypnoKink and General Hypnotists]]
-- [[4. Booklists/Books for Submissives and Slaves\|4. Booklists/Books for Submissives and Slaves]]
-- [[4. Booklists/Booklists for Dominants and Masters\|4. Booklists/Booklists for Dominants and Masters]]
-- [[4. Booklists/Books for Men\|4. Booklists/Books for Men]]
+- [Books for HypnoKink and General Hypnotists](4.%20Booklists/Books%20for%20HypnoKink%20and%20General%20Hypnotists.md)
+- [Books for Submissives and Slaves](4.%20Booklists/Books%20for%20Submissives%20and%20Slaves.md)
+- [Booklists for Dominants and Masters](4.%20Booklists/Booklists%20for%20Dominants%20and%20Masters.md)
+- [Books for Men](4.%20Booklists/Books%20for%20Men.md)
 
 #### Techniques
 
-- [[5. Articles/Guest Post - How Would I train a Slavegirl if I was a Master\|5. Articles/Guest Post - How Would I train a Slavegirl if I was a Master]]
+- [Guest Post - How Would I train a Slavegirl if I was a Master](5.%20Articles/Guest%20Post%20-%20How%20Would%20I%20train%20a%20Slavegirl%20if%20I%20was%20a%20Master.md)
 
-- [[5. Articles/An Incomplete Guide to Self Care for Submissives\|5. Articles/An Incomplete Guide to Self Care for Submissives]]
+- [An Incomplete Guide to Self Care for Submissives](5.%20Articles/An%20Incomplete%20Guide%20to%20Self%20Care%20for%20Submissives.md)
 
-- [[5. Articles/Rough Body Play\|5. Articles/Rough Body Play]]
-- [[5. Articles/The Standard Submissive Training Checklist\|5. Articles/The Standard Submissive Training Checklist]]
-- [[5. Articles/Willpower and Habituation\|5. Articles/Willpower and Habituation]]
-- [[5. Articles/Why Hypnosis and Sex Work So Well Together\|5. Articles/Why Hypnosis and Sex Work So Well Together]]
-- [[5. Articles/The Training Process\|5. Articles/The Training Process]]
+- [Rough Body Play](5.%20Articles/Rough%20Body%20Play.md)
+- [The Standard Submissive Training Checklist](5.%20Articles/The%20Standard%20Submissive%20Training%20Checklist.md)
+- [Willpower and Habituation](5.%20Articles/Willpower%20and%20Habituation.md)
+- [Why Hypnosis and Sex Work So Well Together](5.%20Articles/Why%20Hypnosis%20and%20Sex%20Work%20So%20Well%20Together.md)
+- [The Training Process](5.%20Articles/The%20Training%20Process.md)
 
-- [[5. Articles/The 3 Minute Game - Simplified\|5. Articles/The 3 Minute Game - Simplified]]
-- [[5. Articles/How to Have A Scene\|5. Articles/How to Have A Scene]]
-- [[5. Articles/The Eight Questions for Better Sex\|5. Articles/The Eight Questions for Better Sex]]
-- [[5. Articles/The After Action Review (AAR)\|5. Articles/The After Action Review (AAR)]]
-- [[5. Articles/The Five Minute Aftercare Routine\|5. Articles/The Five Minute Aftercare Routine]]
-- [[5. Articles/Building Your Own Sex Kit\|5. Articles/Building Your Own Sex Kit]]
-- [[5. Articles/Building Better Triggers - In Detail\|5. Articles/Building Better Triggers - In Detail]]
+- [The 3 Minute Game - Simplified](5.%20Articles/The%203%20Minute%20Game%20-%20Simplified.md)
+- [How to Have A Scene](5.%20Articles/How%20to%20Have%20A%20Scene.md)
+- [The Eight Questions for Better Sex](5.%20Articles/The%20Eight%20Questions%20for%20Better%20Sex.md)
+- [The After Action Review (AAR)](5.%20Articles/The%20After%20Action%20Review%20(AAR).md)
+- [The Five Minute Aftercare Routine](5.%20Articles/The%20Five%20Minute%20Aftercare%20Routine.md)
+- [Building Your Own Sex Kit](5.%20Articles/Building%20Your%20Own%20Sex%20Kit.md)
+- [Building Better Triggers - In Detail](5.%20Articles/Building%20Better%20Triggers%20-%20In%20Detail.md)
 
-- [[5. Articles/Submissive Training Assessment Tools\|5. Articles/Submissive Training Assessment Tools]]
-- [[5. Articles/Rough Guidelines on Setting Rules\|5. Articles/Rough Guidelines on Setting Rules]]
-- [[5. Articles/How to Delegate\|5. Articles/How to Delegate]]
-- [[5. Articles/Combining Hypnosis and Chemicals\|5. Articles/Combining Hypnosis and Chemicals]]
-- [[5. Articles/Some Notes on Injecting Drugs and Brainwashing Pills\|5. Articles/Some Notes on Injecting Drugs and Brainwashing Pills]]
+- [Submissive Training Assessment Tools](5.%20Articles/Submissive%20Training%20Assessment%20Tools.md)
+- [Rough Guidelines on Setting Rules](5.%20Articles/Rough%20Guidelines%20on%20Setting%20Rules.md)
+- [How to Delegate](5.%20Articles/How%20to%20Delegate.md)
+- [Combining Hypnosis and Chemicals](5.%20Articles/Combining%20Hypnosis%20and%20Chemicals.md)
+- [Some Notes on Injecting Drugs and Brainwashing Pills](5.%20Articles/Some%20Notes%20on%20Injecting%20Drugs%20and%20Brainwashing%20Pills.md)
 
 #### Other Lists and Miscellaneous
 
-- [[8. Miscellaneous/List of Educators in Rope and Kink\|8. Miscellaneous/List of Educators in Rope and Kink]]
-- [[8. Miscellaneous/Sources of Rope and Kink Education\|8. Miscellaneous/Sources of Rope and Kink Education]]
-- [[8. Miscellaneous/Corsetry Resources\|8. Miscellaneous/Corsetry Resources]]
-- [[8. Miscellaneous/Sex Toy Recommendations and Suppliers\|8. Miscellaneous/Sex Toy Recommendations and Suppliers]]
-- [[8. Miscellaneous/List of Known HypnoKink Troublemakers\|8. Miscellaneous/List of Known HypnoKink Troublemakers]]
+- [List of Educators in Rope and Kink](8.%20Miscellaneous/List%20of%20Educators%20in%20Rope%20and%20Kink.md)
+- [8. Miscellaneous/Sources of Rope and Kink Education](8.%20Miscellaneous/Sources%20of%20Rope%20and%20Kink%20Education)
+- [Corsetry Resources](8.%20Miscellaneous/Corsetry%20Resources.md)
+- [Sex Toy Recommendations and Suppliers](8.%20Miscellaneous/Sex%20Toy%20Recommendations%20and%20Suppliers.md)
+- [List of Known HypnoKink Troublemakers](8.%20Miscellaneous/List%20of%20Known%20HypnoKink%20Troublemakers.md)
 
-[[8. Miscellaneous/Transcript of the Australian Broadcasting Company Interview\|8. Miscellaneous/Transcript of the Australian Broadcasting Company Interview]]
+[Transcript of the Australian Broadcasting Company Interview](8.%20Miscellaneous/Transcript%20of%20the%20Australian%20Broadcasting%20Company%20Interview.md)
 
 Note to self: Links to pages on this page must be Wiki-style links, outgoing must be Markdown-style. Other pages can be Markdown-style

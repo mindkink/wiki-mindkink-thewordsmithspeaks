@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-booklists/books-for-men/"}
+{"dg-publish":true,"permalink":"/4-booklists/books-for-men/","updated":"2024-12-20T06:16:37.241+08:00"}
 ---
 
 

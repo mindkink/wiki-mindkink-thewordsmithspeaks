@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/the-3-minute-game-simplified/"}
+{"dg-publish":true,"permalink":"/5-articles/the-3-minute-game-simplified/","updated":"2024-12-20T06:16:36.072+08:00"}
 ---
 
 

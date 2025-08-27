@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-scripts-of-bedtime-stories/snow-white-and-rose-red-brothers-grimm/"}
+{"dg-publish":true,"permalink":"/7-scripts-of-bedtime-stories/snow-white-and-rose-red-brothers-grimm/","updated":"2024-12-30T11:28:12.812+08:00"}
 ---
 
 

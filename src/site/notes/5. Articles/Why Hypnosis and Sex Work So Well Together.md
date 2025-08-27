@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/why-hypnosis-and-sex-work-so-well-together/"}
+{"dg-publish":true,"permalink":"/5-articles/why-hypnosis-and-sex-work-so-well-together/","updated":"2024-12-20T06:16:36.242+08:00"}
 ---
 
 

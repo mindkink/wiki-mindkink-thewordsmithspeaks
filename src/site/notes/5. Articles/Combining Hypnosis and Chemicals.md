@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-articles/combining-hypnosis-and-chemicals/"}
+{"dg-publish":true,"permalink":"/5-articles/combining-hypnosis-and-chemicals/","updated":"2024-12-20T06:16:35.807+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-miscellaneous/list-of-known-hypno-kink-troublemakers/"}
+{"dg-publish":true,"permalink":"/8-miscellaneous/list-of-known-hypno-kink-troublemakers/","updated":"2024-12-20T06:16:36.414+08:00"}
 ---
 
 

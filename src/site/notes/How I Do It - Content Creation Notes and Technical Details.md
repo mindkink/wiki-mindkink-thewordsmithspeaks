@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-i-do-it-content-creation-notes-and-technical-details/","pinned":true}
+{"dg-publish":true,"permalink":"/how-i-do-it-content-creation-notes-and-technical-details/","pinned":true,"updated":"2025-01-20T09:08:22.170+08:00"}
 ---
 
 

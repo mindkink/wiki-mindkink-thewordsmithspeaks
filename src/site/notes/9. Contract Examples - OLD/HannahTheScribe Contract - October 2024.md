@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/9-contract-examples-old/hannah-the-scribe-contract-october-2024/"}
+{"dg-publish":true,"permalink":"/9-contract-examples-old/hannah-the-scribe-contract-october-2024/","updated":"2025-01-14T07:37:44.331+08:00"}
 ---
 
 

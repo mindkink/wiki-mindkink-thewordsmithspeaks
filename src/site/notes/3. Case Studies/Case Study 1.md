@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-case-studies/case-study-1/"}
+{"dg-publish":true,"permalink":"/3-case-studies/case-study-1/","updated":"2024-12-31T14:13:43.191+08:00"}
 ---
 
 
