@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/news-and-changes/","pinned":true,"updated":"2025-08-28T00:11:25.676+08:00"}
+{"dg-publish":true,"permalink":"/news-and-changes/","pinned":true,"updated":"2025-08-28T09:25:19.665+08:00"}
 ---
 
+
+### Future Changes
++ Fix wikilinks vs markdown links formatting
++ Switch to Astro / Starlight base for Wiki, or Wiki.js for collaborative editing and contribution?
+
+### Changelog
 
 2025-08-28
 
